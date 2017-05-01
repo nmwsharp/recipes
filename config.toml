@@ -1,0 +1,7 @@
+baseURL = "http://nmwsharp.com/recipes"
+languageCode = "en-us"
+title = "Nick's Noms"
+
+[params]
+  description = "A collection of tasty things."
+  author = "Nick Sharp"
