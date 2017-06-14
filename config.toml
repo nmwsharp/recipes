@@ -1,6 +1,6 @@
 baseURL = "http://nmwsharp.com/recipes"
 languageCode = "en-us"
-title = "Nick's Noms"
+title = "Food for Thought"
 
 [params]
   description = "A collection of tasty things."
