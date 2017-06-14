@@ -6,20 +6,22 @@ image = "duck.jpg"
 
 +++
 
-## Ingredients
+# Ingredients
 
-1 small can CHOPPED black olives (maybe more?)
-1 small can green chiles
-2 large tomatoes - chopped
-4 or 5 green onions - chopped
-3 Tbsp Olive Oil
-1 1/2 tsp Garlic salt
+- 1 small can chopped black olives
+- 1 small can green chiles
+- 2 large tomatoes (diced)
+- 4 green onions (chopped)
+- 3 Tbsp Olive Oil
+- 1 1/2 tsp Garlic salt
 
-## Directions
+# Directions
 
-Mix and chill
+Mix and chill.
 
 Serve with tortilla chips.
+
+# Notes
 
 Lately I have been adding some black pepper and using a combination of 
 roma and regular tomatoes.  You need to have juice so you can't use all 
@@ -30,4 +32,4 @@ spoon off some liquid.
 
 Things to try:
 
-    - Add fresh diced jalepenos?
+- Add fresh diced jalepenos?

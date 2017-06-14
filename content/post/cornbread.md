@@ -3,17 +3,19 @@ date = "2017-04-30T21:42:43-04:00"
 title = "Cornbread"
 categories = ["sides"]
 image = "duck.jpg"
-
+added_by = "Nick Sharp"
 +++
 
-2 Boxes Jiffy Cornbread
-2 eggs
-1/3 cup Milk
-1 can Creamed Corn
-2 Tbs Sugar
+# Ingredients
 
-1 Tbs butter (or preferably bacon or beef fat) to grease skillet
+- 2 boxes Jiffy cornbread muffin mix
+- 2 eggs
+- 1/3 cup milk
+- 1 can creamed corn
+- 2 tbs Sugar
+- 1 tbs butter (to grease skillet)
 
+# Directions
 
 Preheat oven to 400 degrees. Find a cast iron skillet.
 

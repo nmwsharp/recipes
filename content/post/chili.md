@@ -4,36 +4,40 @@ title = "Chili"
 categories = ["soups"]
 tags = ["ground beef"]
 description = "Great chili for a cold day with football and cornbread"
-
+added_by = "Nick Sharp"
 +++
 
 
-2 lbs ground beef (italian sausage works meh too. Some of both? Chuck roast [will need to cook longer]?)
-1 large yellow onion, diced (how fine of a dice is up to you)
-~4 cloves garlic, minced
-1 15oz can black beans (strain out ~half the juice)
-1 15oz can kidney beans (strain out ~half the juice)
-1 14oz can diced tomatoes  (dump entire can)
-1 14oz can stewed tomatoes (dump entire can)
-2 jalapenos, seeded and diced
-1/2 bottle of beer (IPA works great)
-~2 shots whiskey
-~3-4 tblspoon chili powder
-~1+ teaspoons cayenne
-~1 tblspoon cumin
-black pepper
+# Ingredients
 
+- 1.5 lbs ground beef 
+- 1/2 lbs chorizo sausage (not in casing)
+- 1 large yellow onion, diced
+- 4 cloves garlic, minced
+- 1 15oz can black beans (strain out ~half the juice)
+- 1 15oz can kidney beans (strain out ~half the juice)
+- 1 14oz can diced tomatoes  (dump entire can)
+- 1 14oz can stewed tomatoes (dump entire can)
+- 2 jalapenos, seeded and diced
+- 1/2 bottle of beer (IPA works great)
+- 2 shots whiskey
+- 3 Tbsp chili powder
+- 1+ teaspoons cayenne
+- 1 Tbsp cumin
+- black pepper
 
-I start by browning the meat with half of the chili powder over medium-high heat in batches to give it room to sizzle and get a bunch of crunchy bits in there. If using steak, I'll dice it first, and if sausage, I'll remove the casing and break it up by hand. Make sure to not crowd the pan, or you'll end up braising the meat in its own juices which, while tasty, isn't as good. If you're in a hurry (why are you making chili), just go to town. It's not the end of the world.
+Note: I often make a double batch of this recipe, which ends up being about 12 bowls of chili.
 
-Once the meat is browned, I remove it from the pan and start sauteeing the diced onion.
+# Directions
 
-After a couple minutes, I add the garlic and let that sautee for a very short while (it'll burn fast) before deglazing the pan with a bit of beer and a shot of whiskey.
+Put a large pot over medium heat with all of the canned ingredients, everything gets added in here as it is ready.
 
-Once the beer/whiskey's done its job, re-add the meat, adding the beans, tomatoes, jalapenos, cumin, and the rest of the chili powder. Mash up any excessive bits of stewed tomato.
+Brown the meat with some of the chili powder. Leave some of the fat in the pan, and use it to saute onions until they are starting to caramelize, adding the garlic with about 5 minutes to go.
 
-Once everything's mixed up, I reduce the heat to medium-low and wait for about a half hour before adding in the cayenne, about a half teaspoon at a time, tasting after 10 minutes to see if I'm happy with the heat.
-Once I'm happy with everything, I let it simmer at low heat, covered, for an hour or two before adding the bell peppers.
+Deglaze the pan with the whiskey and beer, reduce slightly, and add the mixture to the pot.
 
-After about a half hour, I kill the heat and let the residual take it the rest of the way for about 20 minutes.
-I serve over rice, biscuits, cornbread, or on its own with shredded cheese, a dollop of sour cream, and diced red onion
+Add the remaining spices (but not the jalapenos) to the pot. I normally add about 1 tsp of cayenne now, then add more in later to taste.
+
+Simmer for about 2 hours. Keep it just barely boiling and stir every ~20 minutes to ensure nothing sticks to the bottom.
+
+Add jalapenos. Simmer for at least another hour. It's chili -- serve it whenever you damn please.
