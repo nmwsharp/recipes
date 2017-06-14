@@ -2,7 +2,6 @@
 date = "2017-04-30T21:42:43-04:00"
 title = "Cornbread"
 categories = ["sides"]
-image = "duck.jpg"
 added_by = "Nick Sharp"
 +++
 
