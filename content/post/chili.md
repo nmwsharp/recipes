@@ -8,7 +8,7 @@ added_by = "Nick Sharp"
 +++
 
 
-# Ingredients
+## Ingredients
 
 - 1.5 lbs ground beef 
 - 1/2 lbs chorizo sausage (not in casing)
@@ -28,7 +28,7 @@ added_by = "Nick Sharp"
 
 Note: I often make a double batch of this recipe, which ends up being about 12 bowls of chili.
 
-# Directions
+## Directions
 
 Put a large pot over medium heat with all of the canned ingredients, everything gets added in here as it is ready.
 

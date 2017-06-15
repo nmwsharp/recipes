@@ -2,10 +2,10 @@
 date = "2017-04-30T21:42:43-04:00"
 title = "Cornbread"
 categories = ["sides"]
-added_by = "Nick Sharp"
+author = "Nick Sharp"
 +++
 
-# Ingredients
+## Ingredients
 
 - 2 boxes Jiffy cornbread muffin mix
 - 2 eggs
@@ -14,7 +14,7 @@ added_by = "Nick Sharp"
 - 2 tbs Sugar
 - 1 tbs butter (to grease skillet)
 
-# Directions
+## Directions
 
 Preheat oven to 400 degrees. Find a cast iron skillet.
 

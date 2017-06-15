@@ -5,7 +5,7 @@ categories = ["sides"]
 
 +++
 
-# Ingredients
+## Ingredients
 
 - 1 small can chopped black olives
 - 1 small can green chiles
@@ -14,13 +14,13 @@ categories = ["sides"]
 - 3 Tbsp Olive Oil
 - 1 1/2 tsp Garlic salt
 
-# Directions
+## Directions
 
 Mix and chill.
 
 Serve with tortilla chips.
 
-# Notes
+## Notes
 
 Lately I have been adding some black pepper and using a combination of 
 roma and regular tomatoes.  You need to have juice so you can't use all 

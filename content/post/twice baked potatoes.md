@@ -8,7 +8,7 @@ added_by = "Nick Sharp"
 image="sausage_pasta.jpg"
 +++
 
-# Ingredients
+## Ingredients
 
 - 8 potatoes 
 - 2 sticks of butter
@@ -22,7 +22,7 @@ image="sausage_pasta.jpg"
 - 1 tsp onion powder
 - black pepper
 
-# Directions
+## Directions
 
 Bake potatoes at 400 for 1:15 or until cooked through.
 

@@ -1,19 +1,10 @@
 <div class="index">
   {{ partial "default_head.html" . }}
   <div class="row">
-    <div class="col-sm-9">
 
-      <!--<div class="articles">
-        <div class="row">
-          {{ range $key, $value := .Paginator.Pages }}
-          <div class="col-sm-{{ if lt $key 4 }}6{{ else }}4{{ end }}">
-            {{ .Render "li" }}
-          </div>
-          {{ end }}
-        </div>
-      </div>-->
+    
+    <div class="col-sm-9 col-xs-8">
 
-        
       <div class="list">
       {{ range $categoryName, $categoryList := .Site.Taxonomies.categories}}
 
@@ -34,10 +25,12 @@
 
     </div>
 
-    <div class="col-sm-3">
+    <div class="col-sm-3 col-xs-4">
       {{ partial "sidebar.html" . }}
     </div>
 
   </div>
+
   {{ partial "default_foot.html" . }}
+
 </div>

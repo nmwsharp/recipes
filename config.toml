@@ -5,3 +5,4 @@ title = "Food for Thought"
 [params]
   description = "A collection of tasty things."
   author = "Nick Sharp"
+  GoogleAnalyticsUserID = "UA-58346315-1"
