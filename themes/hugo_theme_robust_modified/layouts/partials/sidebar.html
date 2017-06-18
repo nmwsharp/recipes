@@ -36,7 +36,7 @@
 
   {{ range $key, $value := .Site.Taxonomies }}
   <div class="section taxonomies">
-    <header><div class="title">{{ $key | singularize }}</div></header>
+    <header><div class="title">{{ $key | singularize | title}}</div></header>
     <div class="content">
       {{ range first 10 $value.ByCount }}<a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a>{{ end }}
     </div>
@@ -44,7 +44,7 @@
   {{ end }}
   
   <div class="section hidden-xs">
-    <header><div class="title">LatestPosts</div></header>
+    <header><div class="title">Latest Posts</div></header>
     <div class="content">
       {{ range first 10 .Site.Pages }}
       <div class="sm">{{ .Render "li" }}</div>

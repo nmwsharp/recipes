@@ -5,7 +5,11 @@
     {{ end }}
     <div class="detail">
       <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Jan 2006" }}{{ end }}</time>
-      <h2 class="title">{{ .Title }}</h2>
+      <h2 class="title">
+        <div class="wrap">
+        <p>{{ .Title }}</p>
+        </div>
+      </h2>
       <!--<div class="summary">{{ .Description }}</div>-->
     </div>
   </a>
