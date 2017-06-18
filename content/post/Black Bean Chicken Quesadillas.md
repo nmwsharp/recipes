@@ -4,6 +4,7 @@ title = "Black Bean Chicken Quesadillas"
 categories = ["entrees"]
 tags = ["chicken"]
 author = "Nick Sharp"
+image="quesadillas.jpg"
 +++
 
 ## Ingredients

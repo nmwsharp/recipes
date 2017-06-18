@@ -1,6 +1,6 @@
 +++
 date = "2014-06-08"
-title = "Sweet and Spicy Stir Fry with Chicken and Broccoli"
+title = "Stir Fry with Chicken and Broccoli"
 categories = ["entrees"]
 tags = ["chicken"]
 added_by = "Nick Sharp"
