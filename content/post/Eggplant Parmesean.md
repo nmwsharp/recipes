@@ -1,24 +1,30 @@
-Eggplant Parmesan 
++++
+date = "2016-12-11"
+title = "Eggplant Parmesan"
+categories = ["entrees"]
+tags = ["ground beef"]
+author = "Nick Sharp"
++++
 
-Ingredients
+## Ingredients
 
-2 Tbsp butter
-2 c chopped onion (or oil works)
-3 clove garlic, mashed
-2 lb ground chuck
-3 cans tomato sauce (8 oz)
-4 tsp dried oregano leaves
-2 tsp dried basil leaves
-3/4 tsp anise seed
-2 large eggplant
-2 eggs, slightly beaten
-1 1/2 c dried bread crumbs
-1/2 c grated Parmesan cheese
-2 c vegetable or olive oil
-1 c mozerella cheese
+- 2 Tbsp butter
+- 2 c chopped onion (or oil works)
+- 3 clove garlic, mashed
+- 2 lb ground chuck
+- 3 cans tomato sauce (8 oz)
+- 4 tsp dried oregano leaves
+- 2 tsp dried basil leaves
+- 3/4 tsp anise seed
+- 2 large eggplant
+- 2 eggs, slightly beaten
+- 1 1/2 c dried bread crumbs
+- 1/2 c grated Parmesan cheese
+- 2 c vegetable or olive oil
+- 1 c mozzarella cheese
 
 
-Directions
+## Directions
 
 In a skillet melt butter/oil. Sauté onions, garlic and meat for about 5 minutes. Add tomato sauce, oregano, basil and anise. Mix well and set aside
 
@@ -36,9 +42,7 @@ Place a single layer of eggplant into bottom of prepared baking dish. Sprinkle w
 
 Bake uncovered for 20 minutes or until cheese is melted and bubbles
 
-
-Hints:
-
+## Notes
 
 Select eggplants that are relatively heavy for their size, with skins that are smooth, taut, and shiny. Tan patches, scars, or bruises on the skin are signs of decay underneath. When you press an eggplant with your thumb, it should feel firm and bounce back. The fuzzy caps and stems should be green and free of decay and mold. Eggplants are perishable,  buy them no more than a day or two in advance and store them in a plastic bag in a cool place. 
 
