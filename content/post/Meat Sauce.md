@@ -1,32 +1,41 @@
-# Meat Sauce
-
-Makes a shitload of sauce, you might want to halve it or more. Freezes well?
++++
+date = "2017-03-13"
+title = "Meat Sauce"
+categories = ["sides"]
+tags = ["ground beef"]
+author = "Nick Sharp"
++++
 
 ## Ingredients
-3 pounds ground beef (I used ground round)
-2 pounds sausage
-3 tablespoons olive oil 
-2 large yellow onions, diced 
-2 green bell peppers, seeded and diced 
-3 cups fresh mushrooms, chopped
-6 cloves garlic, minced 
-1 cup white wine or stock (your choice) 
-Two 28-ounce cans crushed tomatoes 
-One 24-ounce jar good store-bought marinara sauce (you can use another jar if you like the sauce to be more saucy than meaty) 
-One 6-ounce can tomato paste 
-2 tablespoons sugar 
-2 teaspoons kosher salt 
-2 teaspoon ground oregano 
-2 teaspoon ground thyme 
-2 teaspoon dried rosemary
-3 teaspoon crushed red pepper, optional
-1/2 teaspoon cayenne, optional
-5 bay leaves 
-1/4 cup finely minced fresh parsley or 3 tablespoons parsley flakes, plus more for serving 
-1 whole rind from 1 wedge Parmesan, optional
-1/2 cup grated Parmesan, optional, plus more for serving
+
+- 3 pounds ground beef (I used ground round)
+- 2 pounds sausage
+- 3 tablespoons olive oil 
+- 2 large yellow onions, diced 
+- 2 green bell peppers, seeded and diced 
+- 3 cups fresh mushrooms, chopped
+- 6 cloves garlic, minced 
+- 1 cup white wine or stock (your choice) 
+- Two 28-ounce cans crushed tomatoes 
+- One 24-ounce jar good store-bought marinara sauce
+- One 6-ounce can tomato paste 
+- 2 tablespoons sugar 
+- 2 teaspoons kosher salt 
+- 2 teaspoon ground oregano 
+- 2 teaspoon ground thyme 
+- 2 teaspoon dried rosemary
+- 3 teaspoon crushed red pepper, optional
+- 1/2 teaspoon cayenne, optional
+- 5 bay leaves 
+- 1/4 cup finely minced fresh parsley or 3 tablespoons parsley flakes (plus a little more for serving)
+- 1 whole rind from 1 wedge Parmesan, optional
+- 1/2 cup grated Parmesan, optional (plus more for serving)
+
+Makes _a lot_ of sauce, you might want to halve it or more. Freezes well.
+
 
 ## Instructions
+
 In a large pot over medium-high heat, brown the ground beef and sausage until totally browned. Remove the meat from the pot with a slotted spoon and put it into a bowl. Set aside.
 
 Discard any grease in the pot, but do not clean the pot. Drizzle in the olive oil. When it is heated, throw in the onions and bell peppers. Stir it around for 1 1/2 minutes, and then add the garlic. Stir and cook for an additional minute.

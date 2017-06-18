@@ -5,7 +5,6 @@ categories = ["sides"]
 tags = []
 description = "The OG recipe"
 added_by = "Nick Sharp"
-image="sausage_pasta.jpg"
 +++
 
 ## Ingredients

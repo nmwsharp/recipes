@@ -1,5 +1,5 @@
 +++
-date = "2017-04-30T21:42:43-04:00"
+date = "2016-11-23"
 title = "Cornbread"
 categories = ["sides"]
 author = "Nick Sharp"
