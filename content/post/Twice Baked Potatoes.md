@@ -1,9 +1,8 @@
 +++
-date = "2017-04-30T23:42:42-04:00"
+date = "2015-02-01"
 title = "Twice Baked Potatoes"
 categories = ["sides"]
 tags = []
-description = "The OG recipe"
 added_by = "Nick Sharp"
 +++
 
