@@ -1,5 +1,5 @@
 +++
-date = "2012-9-2"
+date = "2012-09-02"
 title = "Egg Salad"
 categories = ["sides"]
 author = "Nick Sharp"
