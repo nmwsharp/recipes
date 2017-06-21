@@ -3,7 +3,6 @@ date = "2013-11-11"
 title = "Chili"
 categories = ["soups"]
 tags = ["ground beef"]
-description = "Great chili for a cold day with football and cornbread"
 added_by = "Nick Sharp"
 +++
 

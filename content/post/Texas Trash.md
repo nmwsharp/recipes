@@ -1,5 +1,5 @@
 +++
-date = "2017-04-30T21:42:43-04:00"
+date = "2015-02-01"
 title = "Texas Trash"
 categories = ["sides"]
 
@@ -31,4 +31,4 @@ spoon off some liquid.
 
 Things to try:
 
-- Add fresh diced jalepenos?
+- Add fresh diced jalapenos?

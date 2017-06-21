@@ -6,15 +6,15 @@
     <div class="col-sm-9 col-xs-8">
 
       <div class="list">
-      {{ range $categoryName, $categoryList := .Site.Taxonomies.categories}}
+      {{ range $count, $value := .Site.Taxonomies.categories.ByCount}}
 
 
-        <header class="title"><h1>{{ $categoryName }}</h1></header>
+        <header class="title"><h1>{{ $value.Name | title }}</h1></header>
         <div class="row">
 
-          {{ range $categoryList.Pages }}
+          {{ range $value.Pages }}
             <div class="col-sm-4">
-            {{ .Render "li"}} 
+            {{ .Render "licard"}} 
             </div>
           {{ end }}
 

@@ -1,7 +1,7 @@
 +++
 date = "2017-03-13"
 title = "Meat Sauce"
-categories = ["sides"]
+categories = ["pasta"]
 tags = ["ground beef"]
 author = "Nick Sharp"
 +++

@@ -79,11 +79,16 @@ header.site {
 
 header.site .title {
   font-family: 'Marcellus SC', cursive;
-  font-size: 2rem;
+  font-size: 3.0rem;
 }
 
 header.site .title a {
   text-decoration: none;
+}
+
+header.title h1 {
+  font-family: 'Marcellus SC', cursive;
+  font-size: 2.0rem;
 }
 
 footer.site {
@@ -110,6 +115,10 @@ footer.site p {
   aside.site {
     margin-top: 3rem;
   }
+}
+
+aside {
+  font-size: 1.3rem;
 }
 
 aside.site .section {
@@ -146,13 +155,13 @@ div.list header.title {
 
 article.li {
   margin-bottom: 2rem;
-  /*background-color: #6B7A8F;*/
   background-color: #FFF;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 article.li .detail {
   padding: 1rem;
+  height: 8rem;
 }
 
 article.li a {
@@ -162,7 +171,7 @@ article.li a {
 }
 
 article.li .image {
-  height: 12rem;
+  height: 10rem;
   background-color: #eee;
   background-position: center;
   background-size: cover;
@@ -177,15 +186,14 @@ article.li time {
   white-space: nowrap;
   padding: 3px 7px;
   color: #fff;
-  /*background-color: #333;*/
   background-color: #457b9d;
-  font-size: .7rem;
+  font-size: .8rem;
   line-height: 1rem;
 }
 
 article.li .title {
-  /*white-space: nowrap;*/
-  /*text-overflow: ellipsis;*/
+  text-overflow: ellipsis;
+  text-align: center;
   overflow: hidden;
 }
 
@@ -196,6 +204,19 @@ article.li .summary {
   color: #000;
   font-size: .8rem;
   line-height: 1rem;
+}
+
+.wrap {
+  display: table;
+  height: 100%;
+  width: 100%;
+  /*padding: 10px;*/
+}
+
+.wrap p {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
 }
 
 @media (min-width: 767px) {
@@ -229,6 +250,7 @@ article.li .summary {
 .sm article.li .title {
   white-space: normal;
   font-weight: 600;
+  text-align: left;
 }
 
 .sm article.li .image {
@@ -441,9 +463,9 @@ article.single .article-body pre code {
 
 .section.taxonomies a {
   display: block;
-  font-size: .8rem;
+  font-size: 1.0rem;
   text-decoration: none;
-  line-height: 1.5rem;
+  line-height: 2.0rem;
 }
 
 .section.taxonomies a:before {
