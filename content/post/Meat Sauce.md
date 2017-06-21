@@ -52,3 +52,9 @@ Serve a big bowl of oiled noodles and the meat sauce so guests can serve themsel
 
 
 Started from: http://www.foodnetwork.com/recipes/ree-drummond/meat-sauce
+
+
+Things to try:
+- Yellow mustard
+- Worcestire sauce
+- (see https://www.reddit.com/r/AskCulinary/comments/6igqit/my_familys_recipes_say_to_add_yellow_mustard_to/)
