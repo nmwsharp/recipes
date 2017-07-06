@@ -13,11 +13,11 @@ author = "Nick Sharp"
 - 1 tbs olive oil
 - 10 oz package baby portabella mushrooms
 - 1 clove garlic, minced
-- 1 cup chicken stock
+- 1.5 cup chicken stock
 - 1 tsp crushed rosemary (or 1 large bruised sprig fresh)
 - 1 tsp oregano
 - 1 tsp thyme
-- 1 cup heavy cream (use less if you want to live past 50)
+- 1/2 cup heavy cream (use less if you want to live past 50)
 - pasta noodles of your choice
 
 Seasoned Flour:
