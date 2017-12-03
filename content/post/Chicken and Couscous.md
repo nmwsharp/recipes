@@ -2,7 +2,7 @@
 date = "2013-10-22"
 title = "Chicken Couscous"
 categories = ["entrees"]
-tag = ["chicken"]
+tags = ["chicken"]
 author = "Nick Sharp"
 +++
 

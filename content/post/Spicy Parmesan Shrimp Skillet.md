@@ -2,11 +2,13 @@
 date = "2013-10-28"
 title = "Spicy Shrimp Pasta" 
 categories = ["pasta"]
-tags = []
+tags = ["shrimp"]
 added_by = "Nick Sharp"
 +++
 
 ## Ingredients
+
+### Shrimp and pasta
 
 - 1 pound raw peeled and deveined shrimp
 - 1/3 cup olive oil
@@ -18,7 +20,7 @@ added_by = "Nick Sharp"
 - 1 package pasta (linguine are my favorite)
 - sliced green onion (garnish)
 
-Cream sauce:
+### Cream sauce:
 
 - 1 cup heavy cream
 - 3 Tbsp butter
