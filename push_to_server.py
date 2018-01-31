@@ -1,8 +1,11 @@
-import os.path, os
+import os.path, os, sys
 from ftplib import FTP, error_perm
 import ftplib
 from subprocess import call
 
+if sys.version_info[0] != 3:
+    print("This is a python3 script! Try again.")
+    exit(-1)
 
 # Helper to recursively upload
 # See https://stackoverflow.com/questions/32481640/how-do-i-upload-full-directory-on-ftp-in-python

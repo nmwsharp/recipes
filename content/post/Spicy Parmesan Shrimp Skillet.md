@@ -11,8 +11,8 @@ added_by = "Nick Sharp"
 ### Shrimp and pasta
 
 - 1 pound raw peeled and deveined shrimp
-- 1/3 cup olive oil
-- 1/4 cup parmesan cheese
+- 1/4 cup olive oil
+- 1/8 cup parmesan cheese
 - 4 garlic cloves, minced
 - 2 teaspoons brown sugar
 - 2 teaspoons soy sauce

@@ -11,7 +11,7 @@ image="sausage_pasta.jpg"
 
 - 1 pack sausage (chicken and apple sausage works well)
 - 1 package mushrooms
-- 1.5 cup chicken stock (bullion water)
+- 1/2 cup chicken stock (bullion water)
 - 1 package noodles
 - 1 big can tomatoes in sauce
 - 0.5-1 cup heavy cream
@@ -36,7 +36,7 @@ Spices:
 
 Boil water for noodles.
 
-Slice sausage and chop onion, saute in oil in very large pan until browned and happy looking. Add garlic and some of the other spices at some point.
+Slice sausage and chop onion, saute in oil in very large pan until browned and happy looking. Add garlic and some of the other spices at some point. It may work well to cook sausage in a separate, nonstick pan first for ~5 min, then add to main pan with onions.
 
 Slice mushrooms, cook in oil and butter. Add some garlic and spices at some point.
 
@@ -44,7 +44,8 @@ Deglaze sausage pan with chicken stock. Add can of tomatoes, breaking up large c
 
 Start cooking noodles.
 
+If you don't like crunchy bits, remove sausage from pan and blend rest of sauce before returning to pan.
+
 Add heavy cream, mushrooms, cheese, and remainder of spices to sausage pot. Cook until cream reduces a bit (~5 minutes).
 
 Add noodles to main pot, stir to combine and serve.
-
