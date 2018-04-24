@@ -18,7 +18,7 @@ author = "Nick Sharp"
 - 1 Tbsp soy sauce
 - 3 cloves garlic
 
-### Optional additions:
+#### Optional additions:
 - 1 apple, grated
 - 1/2 bar chocolate
 - pinch of cheddar cheese
