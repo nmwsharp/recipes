@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Food for Thought</title>
+    <link>http://nmwsharp.com/recipes/tags/</link>
+    <description>Recent content in Tags on Food for Thought</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://nmwsharp.com/recipes/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cast Iron</title>
+      <link>http://nmwsharp.com/recipes/tags/cast-iron/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://nmwsharp.com/recipes/tags/cast-iron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chicken</title>
+      <link>http://nmwsharp.com/recipes/tags/chicken/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://nmwsharp.com/recipes/tags/chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ground Beef</title>
+      <link>http://nmwsharp.com/recipes/tags/ground-beef/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://nmwsharp.com/recipes/tags/ground-beef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instant Pot</title>
+      <link>http://nmwsharp.com/recipes/tags/instant-pot/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://nmwsharp.com/recipes/tags/instant-pot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice Cooker</title>
+      <link>http://nmwsharp.com/recipes/tags/rice-cooker/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://nmwsharp.com/recipes/tags/rice-cooker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shrimp</title>
+      <link>http://nmwsharp.com/recipes/tags/shrimp/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://nmwsharp.com/recipes/tags/shrimp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
