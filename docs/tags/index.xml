@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Food for Thought</title>
-    <link>http://nmwsharp.com/recipes/tags/</link>
+    <link>https://nmwsharp.com/recipes/tags/</link>
     <description>Recent content in Tags on Food for Thought</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://nmwsharp.com/recipes/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nmwsharp.com/recipes/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cast Iron</title>
-      <link>http://nmwsharp.com/recipes/tags/cast-iron/</link>
+      <link>https://nmwsharp.com/recipes/tags/cast-iron/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nmwsharp.com/recipes/tags/cast-iron/</guid>
+      <guid>https://nmwsharp.com/recipes/tags/cast-iron/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chicken</title>
-      <link>http://nmwsharp.com/recipes/tags/chicken/</link>
+      <link>https://nmwsharp.com/recipes/tags/chicken/</link>
       <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nmwsharp.com/recipes/tags/chicken/</guid>
+      <guid>https://nmwsharp.com/recipes/tags/chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ground Beef</title>
-      <link>http://nmwsharp.com/recipes/tags/ground-beef/</link>
+      <link>https://nmwsharp.com/recipes/tags/ground-beef/</link>
       <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nmwsharp.com/recipes/tags/ground-beef/</guid>
+      <guid>https://nmwsharp.com/recipes/tags/ground-beef/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instant Pot</title>
-      <link>http://nmwsharp.com/recipes/tags/instant-pot/</link>
+      <link>https://nmwsharp.com/recipes/tags/instant-pot/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://nmwsharp.com/recipes/tags/instant-pot/</guid>
+      <guid>https://nmwsharp.com/recipes/tags/instant-pot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rice Cooker</title>
-      <link>http://nmwsharp.com/recipes/tags/rice-cooker/</link>
+      <link>https://nmwsharp.com/recipes/tags/rice-cooker/</link>
       <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://nmwsharp.com/recipes/tags/rice-cooker/</guid>
+      <guid>https://nmwsharp.com/recipes/tags/rice-cooker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shrimp</title>
-      <link>http://nmwsharp.com/recipes/tags/shrimp/</link>
+      <link>https://nmwsharp.com/recipes/tags/shrimp/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nmwsharp.com/recipes/tags/shrimp/</guid>
+      <guid>https://nmwsharp.com/recipes/tags/shrimp/</guid>
       <description></description>
     </item>
     
