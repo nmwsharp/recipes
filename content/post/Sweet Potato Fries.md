@@ -31,6 +31,6 @@ Bake ~30 minutes, flipping halfway through. If not crisping, broil for ~3 minute
 
 - 1 potato each is decent serving
 
-- Consider adding: cayenne
+- Consider adding: cayenne, old bay
 
 - Possibly use oil spritzer to cut down on oil?
