@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nmwsharp.com/recipes/post/sweet-potato-fries/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nmwsharp.com/recipes/post/japanese-curry/</loc>
     <lastmod>2018-04-23T00:00:00+00:00</lastmod>
   </url>
@@ -182,7 +187,7 @@
   
   <url>
     <loc>https://nmwsharp.com/recipes/</loc>
-    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -206,7 +211,7 @@
   
   <url>
     <loc>https://nmwsharp.com/recipes/post/</loc>
-    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -224,7 +229,7 @@
   
   <url>
     <loc>https://nmwsharp.com/recipes/categories/sides/</loc>
-    <lastmod>2016-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
