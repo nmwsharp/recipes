@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entrees on Food for Thought</title>
+    <title>entrees on Food for Thought</title>
     <link>https://nmwsharp.com/recipes/categories/entrees/</link>
-    <description>Recent content in Entrees on Food for Thought</description>
+    <description>Recent content in entrees on Food for Thought</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://nmwsharp.com/recipes/categories/entrees/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Portobello Caps</title>
+      <link>https://nmwsharp.com/recipes/post/portobello-caps/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nmwsharp.com/recipes/post/portobello-caps/</guid>
+      <description>Ingredients  2 large portobello caps 1&amp;frasl;2 cup canola (or other high heat) oil 4 cloves garlic 1 Tbs balsamic vinegar 3 Tbs chopped onion 1 tsp soy sauce black pepper   Directions Clean mushrooms, remove stems. Slice if desired.
+Combine all other ingredients to make marinade. Cover mushrooms and let sit for ~1hr.
+Grill for ~10 minutes.
+Things to try: - rosemary - cayenne</description>
+    </item>
     
     <item>
       <title>Japanese Curry</title>

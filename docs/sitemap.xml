@@ -3,13 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nmwsharp.com/recipes/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/post/portobello-caps/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nmwsharp.com/recipes/post/sweet-potato-fries/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://nmwsharp.com/recipes/categories/sides/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nmwsharp.com/recipes/post/japanese-curry/</loc>
     <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/tags/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/tags/instant-pot/</loc>
+    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -28,6 +75,18 @@
   </url>
   
   <url>
+    <loc>https://nmwsharp.com/recipes/tags/chicken/</loc>
+    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/categories/soups/</loc>
+    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nmwsharp.com/recipes/post/beef-bulgogi/</loc>
     <lastmod>2017-09-10T00:00:00+00:00</lastmod>
   </url>
@@ -43,8 +102,32 @@
   </url>
   
   <url>
+    <loc>https://nmwsharp.com/recipes/tags/cast-iron/</loc>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/categories/pasta/</loc>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/tags/shrimp/</loc>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nmwsharp.com/recipes/post/oatmeal-chocolate-chip-cookies/</loc>
     <lastmod>2017-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/categories/desserts/</loc>
+    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -55,6 +138,12 @@
   <url>
     <loc>https://nmwsharp.com/recipes/post/meat-sauce/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/tags/ground-beef/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -75,6 +164,12 @@
   <url>
     <loc>https://nmwsharp.com/recipes/post/rice-bowl-with-chinese-sausage/</loc>
     <lastmod>2016-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/tags/rice-cooker/</loc>
+    <lastmod>2016-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -154,94 +249,6 @@
   
   <url>
     <loc>https://nmwsharp.com/recipes/post/drinks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/tags/cast-iron/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/tags/chicken/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/categories/desserts/</loc>
-    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
-    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/tags/ground-beef/</loc>
-    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/tags/instant-pot/</loc>
-    <lastmod>2018-04-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/categories/pasta/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/post/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/tags/rice-cooker/</loc>
-    <lastmod>2016-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/tags/shrimp/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/categories/sides/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/categories/soups/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/tags/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
