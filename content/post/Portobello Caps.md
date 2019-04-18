@@ -10,7 +10,7 @@ added_by = "Nick Sharp"
 ## Ingredients
 
 - 2 large portobello caps
-- 1/2 cup canola (or other high heat) oil
+- 1/8 cup canola (or other high heat) oil
 - 4 cloves garlic
 - 1 Tbs balsamic vinegar
 - 3 Tbs chopped onion
