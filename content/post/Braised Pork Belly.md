@@ -17,7 +17,7 @@ added_by = "Nick Sharp"
 - 1/2 cup bonito flakes
 - 1/4 cup sugar
 - 8 cloves garlic crushed
-- 8 extra large eggs 
+- 8 eggs 
 
 ### Braised beef
 - 1 lb pork belly or shoulder, cut to 1/3 in cubes
@@ -46,13 +46,13 @@ Boil a large pot of water.
 
 Make tare by combining all ingredients (except egg) in saucepan, simmer for 15 min. Strain with fine sieve and let cool.
 
-Place in warm water for 1 minute (if eggs are room-temperature, skip this step and boil for 1 minute less below).
+Place in warm water for 1 minute (if eggs are room-temperature already, skip this step and boil for 1 minute less below).
 
 Lower eggs in water, boil for 7 1/2 min. Prepare bowl of ice water.
 
 Move eggs to ice water for a few minutes to cool. Peel under running water.
 
-Place eggs in a ziploc bag with ~1/3 of the tare, enough to soak but no need to totally submerge. Refrigerate for 8-24 hours, turning occasionally.
+Place eggs in a ziploc bag with ~1/3 of the tare, enough to soak but no need to totally submerge. Refrigerate for 8-24 hours, turning occasionally. Remove eggs from tare and refrigerate. Remaining tare can be re-used a few times.
 
 Use eggs within 3 days. Leftover tare sauce seems to keep for a very long time. Before using eggs, let them come to room temperature if possible.
 
@@ -66,7 +66,7 @@ Set instant pot to manual, high pressure, 25 minutes. Once finished, wait for a 
 
 Set instant pot to sauté on high again, and cook until pork has darkened a little and some (but not all) of the liquid has evaporated. If in doubt, leave more liquid.
 
-Mix 1 part cornstarch to 2 parts water (by volume), and stir in to mixure until a thick saucy consistency is reached. Usually around 3 Tbsp of the mixture will do it.
+Mix 1 part cornstarch to 2 parts water (by volume), and stir in to mixture until a thick saucy consistency is reached. Usually around 3 Tbsp of the mixture will do it.
 
-Ladle pork over rice, top with ramen egg.
+Serving suggestion: ladle pork over rice, top with ramen egg.
 
