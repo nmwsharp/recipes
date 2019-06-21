@@ -32,8 +32,8 @@ added_by = "Nick Sharp"
 - 2 Tbsp rock sugar or brown sugar
 - 2/3 cup hot water
 - 10-15 dried chiles
-- 1 Tbsp sichuan bean paste
-- 1 tsp sambal olek
+- 2 Tbsp sichuan bean paste
+- 3 tsp sambal olek
 - 2 tsp chili crisp oil
 - cornstarch
 
