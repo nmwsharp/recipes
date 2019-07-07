@@ -3,26 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nmwsharp.com/recipes/post/braised-pork-belly/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
+    <loc>https://nmwsharp.com/recipes/post/basic-bread/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nmwsharp.com/recipes/categories/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nmwsharp.com/recipes/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nmwsharp.com/recipes/post/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/categories/bread/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/post/braised-pork-belly/</loc>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>

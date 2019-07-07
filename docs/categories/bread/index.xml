@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bread on Food for Thought</title>
+    <link>https://nmwsharp.com/recipes/categories/bread/</link>
+    <description>Recent content in bread on Food for Thought</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nmwsharp.com/recipes/categories/bread/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic Bread</title>
+      <link>https://nmwsharp.com/recipes/post/basic-bread/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nmwsharp.com/recipes/post/basic-bread/</guid>
+      <description>Ingredients  400g [3 cups] bread flour (or AP flour) 1g [1&amp;frasl;4 tsp] instant yeast 8g [1 tsp] salt 300g [1 1&amp;frasl;3 cup] water  Directions Day before: (~15 min)
+Combine flour, yeast, and salt in large bowl. Add water and mix until combined, then 30sec more. Dough should be wet and sticky, and not hold shape at all.
+Cover bowl with towel or wrap, and let sit at room temperature for 12-24 hours.</description>
+    </item>
+    
+  </channel>
+</rss>
