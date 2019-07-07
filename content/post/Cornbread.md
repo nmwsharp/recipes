@@ -1,7 +1,7 @@
 +++
 date = "2016-11-23"
 title = "Cornbread"
-categories = ["sides"]
+categories = ["sides", "bread"]
 author = "Nick Sharp"
 +++
 

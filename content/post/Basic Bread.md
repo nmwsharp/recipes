@@ -30,7 +30,7 @@ Grab the top of the dough blob, stretch it slightly, and fold it over the center
 
 Somehow pick up the dough and place it on the towel you prepared, so the top seam side you were just folding is now facing down. Ideally, you want to preserve the tension of the dough, but don't mess with it once you've set it down. It will be fine.
 
-Dust the top of the dough with flower, cover with the sides of the towel, and let it rise for ~2 hours. It's done when poking leaves a persistent impression. With about 30 min to go, preheat the oven to 450F and place a heavy pot with lid inside (dutch oven / cast iron / pyrex / etc).
+Dust the top of the dough with flour, cover with the sides of the towel, and let it rise for ~2 hours. It's done when poking leaves a persistent impression. With about 30 min to go, preheat the oven to 450F and place a heavy pot with lid inside (dutch oven / cast iron / pyrex / etc).
 
 Once the dough has risen, pull the hot pot out of the oven. Awkwardly flop the dough out of the towel and in to the pan, so the seam side which was facing down is now facing up. It's fine if the dough isn't nicely centered. (Nick has burnt himself ≥ 3 times doing this. Don't be like Nick.)
 
