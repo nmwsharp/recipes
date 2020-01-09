@@ -6,19 +6,19 @@ tags = []
 added_by = "Nick Sharp"
 +++
 
-### Ingredients 
+## Ingredients 
 
-1 package pasta, something small and squiggly (use half-package for less carbs)
-2 Tbsp olive oil
-12 oz. chicken sausage 
-2 Tbsp butter
-2 cloves garlic, minced 
-8 oz. chopped kale (~1 bunch)
-8 kalamata olives, chopped
-1/4 cup grated Parmesan 
-1/4 tsp crushed red pepper 
+- 1 package pasta, something small and squiggly (use half-package for less carbs)
+- 2 Tbsp olive oil
+- 12 oz. chicken sausage 
+- 2 Tbsp butter
+- 2 cloves garlic, minced 
+- 8 oz. chopped kale (~1 bunch)
+- 8 kalamata olives, chopped
+- 1/4 cup grated Parmesan 
+- 1/4 tsp crushed red pepper 
 
-### Instructions 
+## Instructions 
 
 Cook pasta according to package; drop the pasta before before beginning next steps. **Remember to reserve some pasta water.**
 
