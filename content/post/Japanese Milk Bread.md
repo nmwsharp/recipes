@@ -46,4 +46,6 @@ Prepare a bowl greased with butter. Turn dough on to counter, form in to boule w
 
 Once dough has roughly doubled in size, prepare a greased baking pan (I use a 9in round pan). Turn dough out on to counter and punch down. Split dough in to 9 equal sized lumps, and roll each in to a happy round ball. Pack in pan, cover with damp towel, and let proof for another 1-2 hours.
 
-Preheat oven to 350F. Once rolls have expanded about 1.5x, brush with egg wash. Bake for 25-30 min, until golden brown on top. Brush with melted butter and sprinkle salt on top.
+Preheat oven to 350F. Once rolls have expanded about 1.5x, brush with egg wash. Bake for 22-30 min, until golden brown on top. Brush with melted butter and sprinkle salt on top.
+
+Best served warm with apple butter!
