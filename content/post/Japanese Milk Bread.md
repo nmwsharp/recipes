@@ -8,11 +8,13 @@ author = "Nick Sharp"
 ## Ingredients
 
 Tangzhong:
+
 - 2 Tbs bread flour
 - 2 Tbs water
 - 4 Tbs whole milk
 
 Bread Dough:
+
 - 320g [2.5 cups] bread flour
 - 1 Tbs active dry yeast 
 - 3/4 tsp sea salt
@@ -22,6 +24,7 @@ Bread Dough:
 - 1 egg, room temperature
 
 Egg wash:
+
 - one egg
 - splash of whole milk 
 
