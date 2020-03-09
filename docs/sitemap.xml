@@ -4,25 +4,36 @@
   
   <url>
     <loc>https://nmwsharp.com/recipes/categories/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nmwsharp.com/recipes/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/post/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/post/sesame-salmon-and-green-beans/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
+    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nmwsharp.com/recipes/post/japanese-milk-bread/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/post/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -65,12 +76,6 @@
   
   <url>
     <loc>https://nmwsharp.com/recipes/tags/</loc>
-    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
     <lastmod>2019-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
