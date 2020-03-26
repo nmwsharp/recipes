@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Food for Thought</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://nmwsharp.com/recipes/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bread</title>
+      <link>https://nmwsharp.com/recipes/categories/bread/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nmwsharp.com/recipes/categories/bread/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>entrees</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://nmwsharp.com/recipes/categories/entrees/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bread</title>
-      <link>https://nmwsharp.com/recipes/categories/bread/</link>
-      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://nmwsharp.com/recipes/categories/bread/</guid>
       <description></description>
     </item>
     
