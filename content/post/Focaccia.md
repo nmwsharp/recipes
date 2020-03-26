@@ -8,11 +8,13 @@ author = "Nick Sharp"
 ## Ingredients
 
 For biga:
+
 - 320g bread flour (all-purpose is fine too)
 - 6g [1/2 tsp] instant yeast
 - 215g water
 
 For main dough:
+
 - 500g all-purpose flour 
 - 12g [1 Tbsp] instant yeast
 - 12g [2 tsp] salt
