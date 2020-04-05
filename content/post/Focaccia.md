@@ -10,17 +10,17 @@ author = "Nick Sharp"
 For biga:
 
 - 320g bread flour (all-purpose is fine too)
-- 6g [1/2 tsp] instant yeast
+- 1.5g [1/2 tsp] instant yeast
 - 215g water
 
 For main dough:
 
-- 500g all-purpose flour 
-- 12g [1 Tbsp] instant yeast
-- 12g [2 tsp] salt
-- 10g [1.5 tsp] honey
+- 241g [2 cup] all-purpose flour 
+- 6g [2 1/4 tsp] instant yeast
+- 6g [1 1/4 tsp] salt
+- 7g [1 tsp] honey
 - 25g [2 Tbsp] olive oil (for dough, more as topping later)
-- 300g [1 1/4 cup] water
+- 113g [1/2 cup] water
 - Toppings of your choice
 
 ## Directions
@@ -31,11 +31,11 @@ Make the biga. Combine all ingredients and knead for 3-4 minutes. Dough should b
 
 Knead lightly to degas, and place in refridgerator overnight.
 
-This makes roughly triple what is needed for the focaccia. Store in the fridge for up to 3 days, or in a bag in the freezer for up ot 3 months.
+This makes roughly double what is needed for the focaccia. Store in the fridge for up to 3 days, or in a bag in the freezer for up ot 3 months.
 
 **Bake day**: (t-minus 3-4 hours)
 
-Grab 150g of biga, let it warm up if you have time (but if not, that's fine).
+Grab 230g of biga, let it warm up if you have time (but if not, that's fine).
 
 Add flour, yeast, water, oil, and honey. Mix until combined, then work for 5-10 minutes. Should be soft and easy to work but not too sticky. 
 
