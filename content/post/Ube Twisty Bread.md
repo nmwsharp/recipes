@@ -29,8 +29,7 @@ Can either make from scratch OR from jarred uve jam as below. To save time, you 
 
 ## Directions
 
-Total time: 4-5 hours
-
+Total time: 4 hours
 
 In stand mixer or large bowl, mix flour, sugar, salt, and yeast until combined.
 
