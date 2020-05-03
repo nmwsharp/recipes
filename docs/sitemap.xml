@@ -4,19 +4,30 @@
   
   <url>
     <loc>https://nmwsharp.com/recipes/categories/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nmwsharp.com/recipes/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nmwsharp.com/recipes/post/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/post/ube-twisty-bread/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmwsharp.com/recipes/categories/bread/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,12 +57,6 @@
   <url>
     <loc>https://nmwsharp.com/recipes/post/focaccia/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nmwsharp.com/recipes/categories/bread/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
