@@ -21,7 +21,7 @@ Dough
 
 Ube Jam:
 
-Can either make from scratch OR from jarred ube jam as below. To save time, you an even use the stuff from the jar directly.
+Can either make from scratch OR from jarred ube jam as below. (if you're really pressed for time, you can just use the jar directly).
 
 - 1 jar ube jam
 - 1/2 cup evaporated milk
@@ -32,15 +32,17 @@ Can either make from scratch OR from jarred ube jam as below. To save time, you 
 
 Total time: 4 hours
 
+Melt butter and allow it to cool.
+
 In stand mixer or large bowl, mix flour, sugar, salt, and yeast until combined.
 
 Add lukewarm milk and water (lukewarm = around 110F). Mix and knead lightly until combined.
 
-Knead while gradually adding butter until dough develops gluteny strands, it will still be quite sticky and difficult to handle. This could take up to 25 min kneading by hand, more like 10 in a stand mixer.
+Knead while gradually adding butter, then continue kneading until dough develops gluteny strands. It will still be quite sticky and difficult to handle. This could take up to 15-20 min kneading by hand, more like 10 in a stand mixer.
 
 Form dough in to a ball to the best of your ability, and transfer to a large greased bowl, covering with a damp towel. Let rise for 1 hour.
 
-Meanwhile, prepare the jam, either (a) from scratch using another recipe, (b) directly using jarred jam, or (c) cooking down jarred jam. For option (c), place all jam ingredients in a small saucepan over low heat. Stir continuously, being sure to scrape the bottom, until the jam has returned to a thick, spreadable consistency. Allow to cool before use.
+Meanwhile, prepare the jam, either (a) from scratch using another recipe, (b) directly using jarred jam, or (c) cooking down jarred jam. For option (c), place all jam ingredients in a small saucepan over low heat. Stir continuously, being sure to scrape the bottom, until the jam has returned to a thick, spreadable consistency (roughly 10-15 min). Allow to cool before use.
 
 Once the dough has risen, lightly flour a work surface. Turn out the dough, and split it in to four equal pieces. Take each piece and roll out to a ~9 inch circle. It may be easier to spread it out with your hands than using a rolling pin.
 
@@ -48,7 +50,7 @@ Prepare a large baking sheet with a piece of parchment paper. Place the first ci
 
 Using a pastry cutter, make 16 radial cuts outward, starting ~1 inch from the center of the pastry and extending all the way to the edge. Make sure to cut all the way through, you're creating a 16-armed doughy octopus.
 
-Grab pairs of arms, and twist them together, doing 2 full twists on each. Alternating twisting directions gives a nice star-like appearance.
+Grab pairs of consecutive arms, and twist them together, doing 2 full twists on each. Alternating twisting directions gives a nice star-like appearance.
 
 Cover the dough in plastic wrap and rest for 1 hour before baking. Preheat the oven to 350F.
 
