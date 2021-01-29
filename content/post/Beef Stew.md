@@ -20,7 +20,7 @@ author = "Nick Sharp"
 - 1 Tbsp soy sauce
 - 1/2 Tbsp brown sugar
 - 2 cloves garlic, minced
-- 2 Tbsp tomato paste
+- 1 Tbsp tomato paste
 - 1 tsp dried rosemary
 - 1 tsp dried thyme
 - Salt and pepper
