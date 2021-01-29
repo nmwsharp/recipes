@@ -26,9 +26,11 @@ added_by = "Nick Sharp"
 - black pepper
 
 Accompaniments:
+
 - [cornbread](https://nmwsharp.com/recipes/post/cornbread/)
 - sour cream
 - shredded mexican-blend cheese
+
 
 Note: I often make a double batch of this recipe, which ends up being about 12 bowls of chili. You may need to cook the meat in two batches depending on how large your pans are.
 
