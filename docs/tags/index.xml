@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Food for Thought</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Tags on Food for Thought</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://nmwsharp.com/recipes/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nmwsharp.com/recipes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tofu</title>
       <link>https://nmwsharp.com/recipes/tags/tofu/</link>
@@ -21,7 +17,7 @@
     </item>
     
     <item>
-      <title>instant-pot</title>
+      <title>instant pot</title>
       <link>https://nmwsharp.com/recipes/tags/instant-pot/</link>
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
