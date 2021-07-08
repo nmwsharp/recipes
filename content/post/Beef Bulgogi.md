@@ -8,14 +8,15 @@ author = "Nick Sharp"
 
 ## Ingredients
 
-- 1 pound meat (almost any beef/pork/chicken will work, flank steak is my favorite)
-- 1/4 pear, grated  (Bosc pears & Asian pears work well, but any will work)
-- 1 garlic clove, grated
+- 1 pound meat (almost any beef/chicken/pork will work, flank steak is my favorite)
+- 1/4 pear, chopped or grated (Bosc pears & Asian pears work well, but any will work)
+- 1 medium onion, chopped
+- 4 cloves garlic 
+- 1/2 tsp ginger, chopped/grated
 - 2 Tbsp soy sauce
-- 1 Tbsp gochugaru (Korean red pepper powder)
-- 1/2 Tbsp grated peeled ginger
-- 1 Tbsp brown sugar
 - 1 Tbsp toasted sesame oil
+- 1 Tbsp brown sugar
+- 1 Tbsp gochugaru (Korean red pepper powder)
 - vegetable oil (for cooking)
 - salt (for cooking)
 
@@ -28,7 +29,7 @@ author = "Nick Sharp"
 
 Slice meat in to thin strips.  If you're having trouble slicing, try sticking the meat in the freezer for a while beforehand.
 
-Combine pear, garlic, soy sauce, gochugaru, brown sugar, and sesame oil in a large bowl/bag and toss with meat strips. Marinate in the fridge for anywhere from 30 min to 8 hrs.
+Combine pear, onion, garlic, ginger, soy sauce, sesame oil, brown sugar, and gochugaru in a large bowl/bag and toss with meat strips. Marinate in the fridge for anywhere from 30 min to 8 hrs.
 
 Cook rice and wash lettuce for serving.
 
