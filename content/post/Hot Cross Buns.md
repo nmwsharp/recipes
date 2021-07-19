@@ -25,7 +25,7 @@ Bread:
 - 1/4 tsp ground ginger
 - 50g white raisins
 - 50g dried cranberries
-- 50g candied/dried fruit (any, I like oranges)
+- 50g chopped candied/dried fruit (any, I like oranges)
 - zest of one orange
 - zest of one lemon
 
