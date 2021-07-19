@@ -16,6 +16,7 @@ Bread:
 - 50g [4 Tbsp] butter (softened)
 - 1 egg
 - 10g [3 tsp] instant yeast
+- 135g granulated white sugar
 - 1 tsp salt
 - 2 tsp cinnamon
 - 1/2 tsp ground nutmeg
@@ -31,7 +32,7 @@ Bread:
 
 Glaze:
 
-- 35g granulated sugar
+- 35g granulated white sugar
 - 2 Tbsp water
 - 1 Tbsp honey
 - 4 cloves
