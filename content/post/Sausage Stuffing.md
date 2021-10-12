@@ -1,6 +1,6 @@
 +++
 date = "2021-08-01"
-title = "Sausage Cornbread Stuffing"
+title = "Sausage Stuffing"
 categories = ["sides"]
 tags = ["thanksgiving"]
 author = "Mariah Arndorfer"

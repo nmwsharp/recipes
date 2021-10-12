@@ -40,7 +40,7 @@ Pat the turkey dry and rub all over with oil. Season liberally with salt and pep
 
 Roast the turkey in the oven, rotating occasionally, until the deepest part of the breast registers 150F, and the thighs register 165F, about 80 minutes.
 
-While the turkey roasts, make gravy. Chop the neck, backbone, and giblets. Heat 1 Tbs oil in medium saucepan on high. Add chopped turkey parts and cook, stirring occasionally, until lightly browned, about 5 minutes. Add remaining onions, carrots, and celery and continue to cook, stirring occasionally, until vegetables start to soften and brown in spots, another 5 minutes. Add stock, remaining thyme, and bay leaves. Simmer for 45 minutes.
+While the turkey roasts, make gravy. Chop the neck, backbone, and giblets. Heat 1 Tbs oil in medium saucepan on high. Add chopped turkey parts and cook, stirring occasionally, until lightly browned, about 5 minutes. Add remaining onions, carrots, and celery and continue to cook, stirring occasionally, until vegetables start to soften and brown in spots, another 5 minutes. Add stock, remaining thyme, and bay leaves. Simmer for 45 minutes stirring occasionally, it should reduce a decent amount.
 
 After simmering the gravy, strain it through a fine mesh strainer in to a separate bowl, and discard solids. Skim off any fat from the surface.
 
