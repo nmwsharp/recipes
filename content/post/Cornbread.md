@@ -11,8 +11,17 @@ author = "Nick Sharp"
 - 2 eggs
 - 1/3 cup milk
 - 1 can creamed corn
-- 1 tbs Sugar
+- 1 tbs sugar
 - butter (to grease skillet)
+
+If you can't get Jiffy cornbread mix, substitute with:
+
+- 1 & 1⁄3 cup all-purpose flour
+- 1 cup yellow cornmeal
+- 1⁄3 cup sugar
+- 2 Tbs baking powder
+- 1 tsp salt
+- 4 Tbs vegetable oil
 
 ## Directions
 
