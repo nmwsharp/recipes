@@ -14,7 +14,6 @@ added_by = "Nick Sharp"
 - 4 large bell peppers, tops sliced and insides cleaned out, trimmed to stand upright
 - 2 jalapeños, minced
 - 2 cloves garlic, minced
-- 1 Tbs olive oil
 - 1/2 tsp ground cumin
 - 1 tsp ancho chili powder (any chili powder works)
 - 2 cups cooked white rice (if possible, let the cooked rice dry before using)
@@ -33,6 +32,6 @@ Heat large skillet on stovetop. Cook ground beef, breaking up large bits with a 
 
 When onions are soft, add garlic and cook for 2 more min. Then add cumin, chili powder, rice, tomatoes, worcestershire sauce, sour cream, and 1/2 cup shredded cheese. Mix well to combine. Bring to a simmer and cook for 5 more min.
 
-Arrange peppers on a baking sheet standing upward. Fill with beef and rice mixture, and tent with foil. Bake for 30 min, then remove foil, top with remaining shredded cheese, and bake 15 min more.  Let stand for 10 min before serving
+Arrange peppers on a baking sheet standing upward. Fill with beef and rice mixture, and tent with foil. Bake for 30 min, then remove foil, top with remaining shredded cheese, and bake 10 min more.  Let stand for 10 min before serving
 
 
