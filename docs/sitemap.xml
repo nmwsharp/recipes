@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nmwsharp.com/recipes/categories/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/tags/ground-beef/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/stuffed-peppers/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/tags/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nmwsharp.com/recipes/categories/bread/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nmwsharp.com/recipes/categories/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nmwsharp.com/recipes/post/dinner-rolls/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/green-bean-casserole/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/mashed-potatoes/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/post/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/roast-turkey-and-gravy/</loc>
@@ -33,9 +42,6 @@
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/categories/sides/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/tags/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/tags/thanksgiving/</loc>
@@ -136,9 +142,6 @@
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/sausage-tomato-cream-pasta/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/tags/ground-beef/</loc>
-    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/meat-sauce/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
