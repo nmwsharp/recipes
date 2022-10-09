@@ -6,22 +6,31 @@
     <description>Recent content in Categories on Food for Thought</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nmwsharp.com/recipes/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nmwsharp.com/recipes/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soups</title>
+      <link>https://nmwsharp.com/recipes/categories/soups/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nmwsharp.com/recipes/categories/soups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cocktails</title>
+      <link>https://nmwsharp.com/recipes/categories/cocktails/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nmwsharp.com/recipes/categories/cocktails/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>sides</title>
       <link>https://nmwsharp.com/recipes/categories/sides/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nmwsharp.com/recipes/categories/sides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>soup</title>
-      <link>https://nmwsharp.com/recipes/categories/soup/</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nmwsharp.com/recipes/categories/soup/</guid>
       <description></description>
     </item>
     
@@ -49,15 +58,6 @@
       <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nmwsharp.com/recipes/categories/pasta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>soups</title>
-      <link>https://nmwsharp.com/recipes/categories/soups/</link>
-      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://nmwsharp.com/recipes/categories/soups/</guid>
       <description></description>
     </item>
     

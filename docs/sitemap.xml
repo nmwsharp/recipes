@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nmwsharp.com/recipes/categories/</loc>
-    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+    <loc>https://nmwsharp.com/recipes/post/bird-noodle-soup/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nmwsharp.com/recipes/post/chinese-broccoli/</loc>
-    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+    <loc>https://nmwsharp.com/recipes/categories/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/tags/chicken/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/</loc>
-    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/categories/soups/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/tags/</loc>
+    <lastmod>2022-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/amaretto-sour/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/categories/cocktails/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/chinese-broccoli/</loc>
     <lastmod>2022-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/categories/sides/</loc>
     <lastmod>2022-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/soondubu-tofu-stew/</loc>
-    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/categories/soup/</loc>
     <lastmod>2022-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
@@ -30,9 +45,6 @@
     <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/stuffed-peppers/</loc>
-    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/tags/</loc>
     <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/categories/bread/</loc>
@@ -116,16 +128,10 @@
     <loc>https://nmwsharp.com/recipes/post/beef-stew/</loc>
     <lastmod>2017-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nmwsharp.com/recipes/tags/chicken/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nmwsharp.com/recipes/post/pork-bowl-stir-fry-with-peanut-sauce/</loc>
     <lastmod>2017-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/shredded-chicken/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/categories/soups/</loc>
     <lastmod>2017-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/beef-bulgogi/</loc>
