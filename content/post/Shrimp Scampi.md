@@ -10,7 +10,7 @@ added_by = "Nick Sharp"
 
 ## Ingredients
 - 1 lb shrimp 
-- 1/3 cup olive oil 
+- 1/4 cup olive oil 
 - 1/4 cup cold butter cut into 1 Tbsp chunks 
 - 1/2 cup white wine (pinot)
 - 2 Tbsp garlic
@@ -25,7 +25,7 @@ added_by = "Nick Sharp"
 
 ## Directions
 
-Thaw and peel your shrimp, then dry them well with paper towels. Put in a sealable bowl and toss with 1 tspn salt and 1/4 tspn baking soda for 15 mins. This makes them plump but sear well when cooking.
+Thaw and peel your shrimp, then dry them well with paper towels. Put in a sealable bowl and toss with 1/2 tsp salt and 1/2 tsp baking soda for 15 mins. This makes them plump but sear well when cooking.
 
 Prep ingredients. Cut the butter up but keep in fridge until needed so it stays cold. Chop the parsley and put in a ramekin. Boil water.
 
@@ -35,8 +35,7 @@ In a cast iron, start with a thin layer of olive oil and once hitting light smok
 
 Start cooking pasta.
 
-Remove cast iron from the heat, and add 1/3 cup olive oil to cast iron, along with the garlic and red pepper flakes. It should be sizzling good but not burning.
-Once garlic is fragrant but not overcooked, add in the wine. 
+Remove cast iron from the heat, and add 1/3 cup olive oil to cast iron, along with the garlic and red pepper flakes. It should be sizzling good but not burning. Once garlic is fragrant but not overcooked, add in the wine. 
 
 Stir it all together, and then let it simmer well until reduced by about half and the raw alcohol smell is gone.
 
