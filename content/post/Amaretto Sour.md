@@ -19,7 +19,7 @@ added_by = "Nick Sharp"
 
 ## Directions
 
-Combine amaretto, bourbon, lemon juice, simple syrup, and egg white in shake. Pre-shake for 15sec with no-ice. Gently release pressure from the shaker.
+Combine amaretto, bourbon, lemon juice, simple syrup, and egg white in shaker. Pre-shake for 15sec with no-ice. Gently release pressure from the shaker.
 
 Add ice to shaker and shake for 15sec.
 
