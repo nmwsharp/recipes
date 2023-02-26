@@ -39,7 +39,7 @@ Separately, heat beef broth to boiling.
 
 Add the mushrooms and remaining 1 Tbs oil to the pot with the onions, stir and cook until the mushrooms have released their liquid and browned slightly.
 
-Add the boiling beef broth to the onions, and stir to loosen the fond from the bottom of the pot. Add the ½ cup dry white wine, and let the soup simmer for about another 30 minutes.
+Add the boiling beef broth to the onions, and stir to loosen the fond from the bottom of the pot. Add the white wine, and let the soup simmer for about another 30 minutes.
 
 Stir in the cognac. The soup is done now; you can eat it immediately, or preferably refrigerate overnight to improve the texture and flavor.
 
