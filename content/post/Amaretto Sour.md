@@ -10,7 +10,7 @@ added_by = "Nick Sharp"
 
 - 1.5oz amaretto liqueur
 - 0.75oz bourbon (optional)
-- 1oz lemon juice
+- 0.5oz lemon juice
 - 1tsp simple syrup
 - 1/2 oz egg white (approx 1/2 an egg)
 - 2 cocktail cherries
