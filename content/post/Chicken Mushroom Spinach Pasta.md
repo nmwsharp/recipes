@@ -1,5 +1,5 @@
 +++
-date = "2023-05-30"
+date = "2023-04-29"
 title = "Chicken Mushroom Spinach Pasta"
 categories = ["pasta"]
 tags = ["chicken"]
@@ -8,10 +8,10 @@ author = "Nick Sharp"
 
 ## Ingredients
 
-- 1.5lb chicken thigh or breast, sliced to thin strips
+- 1-1.5lb chicken thigh or breast, sliced to thin strips
 - 1/2 yellow onion, diced
 - 8oz cremini mushrooms, quartered
-- 8oz spinach
+- 5oz spinach leafs
 - 3 cloves garlic, minced
 - 3/4 cup heavy cream
 - 1/2 cup parmesan cheese
