@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nmwsharp.com/recipes/categories/</loc>
-    <lastmod>2023-04-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/tags/pork/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/roasted-pork-and-white-beans/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/categories/soups/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/tags/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/gochujang-chorizo-and-rice-cakes/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/tags/chicken/</loc>
     <lastmod>2023-04-29T00:00:00+00:00</lastmod>
@@ -11,20 +35,8 @@
     <loc>https://nmwsharp.com/recipes/post/chicken-mushroom-spinach-pasta/</loc>
     <lastmod>2023-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nmwsharp.com/recipes/</loc>
-    <lastmod>2023-04-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nmwsharp.com/recipes/categories/pasta/</loc>
     <lastmod>2023-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/post/</loc>
-    <lastmod>2023-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/tags/</loc>
-    <lastmod>2023-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
-    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/tags/salmon/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
@@ -33,9 +45,6 @@
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/french-onion-soup/</loc>
-    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/categories/soups/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/bird-noodle-soup/</loc>
@@ -131,10 +140,10 @@
     <loc>https://nmwsharp.com/recipes/post/basic-bread/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nmwsharp.com/recipes/post/braised-pork-belly/</loc>
+    <loc>https://nmwsharp.com/recipes/tags/instant-pot/</loc>
     <lastmod>2019-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nmwsharp.com/recipes/tags/instant-pot/</loc>
+    <loc>https://nmwsharp.com/recipes/post/braised-pork-belly/</loc>
     <lastmod>2019-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/portobello-caps/</loc>
@@ -224,7 +233,7 @@
     <loc>https://nmwsharp.com/recipes/post/chili/</loc>
     <lastmod>2013-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nmwsharp.com/recipes/post/spicy-parmesan-shrimp-skillet/</loc>
+    <loc>https://nmwsharp.com/recipes/post/spicy-shrimp-pasta-and-cream-sauce/</loc>
     <lastmod>2013-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/chicken-and-couscous/</loc>
