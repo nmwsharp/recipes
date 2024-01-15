@@ -1,6 +1,6 @@
 +++
 date = "2019-04-25"
-title = "Braised Pork Belly"
+title = "Sichuan-Style Braised Pork"
 categories = ["entrees"]
 tags = ["instant pot"]
 added_by = "Nick Sharp"
@@ -20,7 +20,7 @@ added_by = "Nick Sharp"
 - 8 eggs 
 
 ### Braised beef
-- 1 lb pork belly or shoulder, cut to 1/3 in cubes
+- 1 lb pork shoulder or belly, cut to 1/3 in cubes
 - 1 Tbsp vegetable oil
 - 2 Tbsp shaoxing wine
 - 3 Tbsp dark soy sauce
