@@ -25,7 +25,7 @@ added_by = "Nick Sharp"
 
 ## Directions
 
-Thaw and peel your shrimp, then dry them well with paper towels. Put in a sealable bowl and toss with 1/2 tsp salt and 1/2 tsp baking soda for 15 mins. This makes them plump but sear well when cooking.
+Thaw and peel your shrimp, then dry them well with paper towels. Put in a sealable bowl and toss with 1/4-1/2 tsp salt and 1/2 tsp baking soda for 15 mins. This makes them plump but sear well when cooking.
 
 Prep ingredients. Cut the butter up but keep in fridge until needed so it stays cold. Chop the parsley and put in a ramekin. Boil water.
 
