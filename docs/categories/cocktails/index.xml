@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cocktails on Food for Thought</title>
+    <title>Cocktails on Food for Thought</title>
     <link>https://nmwsharp.com/recipes/categories/cocktails/</link>
-    <description>Recent content in cocktails on Food for Thought</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Cocktails on Food for Thought</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nmwsharp.com/recipes/categories/cocktails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nmwsharp.com/recipes/categories/cocktails/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strawberry Smash</title>
       <link>https://nmwsharp.com/recipes/post/strawberry-smash/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://nmwsharp.com/recipes/post/strawberry-smash/</guid>
-      <description>Ingredients 2oz vodka 2oz peach schnapps 1oz lime juice 4 strawberries, muddled OR 2oz strawberry mixer sprite sugar (optional garnish) Directions Combine vodka, schnapps, lime juice, and strawberry in shaker with ice. Shake for 15sec.
-Sugar the rim of a cocktail glass, add fresh ice cubes. Strain shaker into glass (if the strawberry mush gets stuck in the shaker, just dump the whole thing in). Add a splash of sprite and stir gently.</description>
+      <description>Ingredients 2oz vodka 2oz peach schnapps 1oz lime juice 4 strawberries, muddled OR 2oz strawberry mixer sprite sugar (optional garnish) Directions Combine vodka, schnapps, lime juice, and strawberry in shaker with ice. Shake for 15sec.&#xA;Sugar the rim of a cocktail glass, add fresh ice cubes. Strain shaker into glass (if the strawberry mush gets stuck in the shaker, just dump the whole thing in). Add a splash of sprite and stir gently.</description>
     </item>
-    
     <item>
       <title>Amaretto Sour</title>
       <link>https://nmwsharp.com/recipes/post/amaretto-sour/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://nmwsharp.com/recipes/post/amaretto-sour/</guid>
-      <description>Ingredients 1.5oz amaretto liqueur 0.75oz bourbon (optional) 0.5oz lemon juice 1tsp simple syrup 1/2 oz egg white (approx 1/2 an egg) 2 cocktail cherries lemon wheel or twist (optional garnish) Directions Combine amaretto, bourbon, lemon juice, simple syrup, and egg white in shaker. Pre-shake for 15sec with no-ice. Gently release pressure from the shaker.
-Add ice to shaker and shake for 15sec.
-Strain into glass over fresh ice. Add cherries and lemon garnish.</description>
+      <description>Ingredients 1.5oz amaretto liqueur 0.75oz bourbon (optional) 0.5oz lemon juice 1tsp simple syrup 1/2 oz egg white (approx 1/2 an egg) 2 cocktail cherries lemon wheel or twist (optional garnish) Directions Combine amaretto, bourbon, lemon juice, simple syrup, and egg white in shaker. Pre-shake for 15sec with no-ice. Gently release pressure from the shaker.&#xA;Add ice to shaker and shake for 15sec.&#xA;Strain into glass over fresh ice. Add cherries and lemon garnish.</description>
     </item>
-    
   </channel>
 </rss>

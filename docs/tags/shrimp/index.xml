@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shrimp on Food for Thought</title>
+    <title>Shrimp on Food for Thought</title>
     <link>https://nmwsharp.com/recipes/tags/shrimp/</link>
-    <description>Recent content in shrimp on Food for Thought</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Shrimp on Food for Thought</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://nmwsharp.com/recipes/tags/shrimp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nmwsharp.com/recipes/tags/shrimp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chipotle Shrimp Tacos</title>
+      <link>https://nmwsharp.com/recipes/post/chipotle-shrimp-tacos/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://nmwsharp.com/recipes/post/chipotle-shrimp-tacos/</guid>
+      <description>Ingredients Shrimp:&#xA;1lb medium shrimp, peeled and deveined 2 Tbsp adobo sauce from a can of chipotle adobo chiles 2 Tbsp honey vegetable or other cooking oil Garlic Mayo:&#xA;1/2 cup mayonnaise 1 garlic clove salt Tacos:&#xA;8 corn or flour tortillas [optional] 1/4 head of cabbage (or slaw mix) [optional] 1 avocado Notes:&#xA;Favorite brands of chipotle adobo chiles: Embasa.&#xA;We usually use 3-4 shrimp per taco with typical small taco-sized tortillas.</description>
+    </item>
     <item>
       <title>Shrimp Scampi</title>
       <link>https://nmwsharp.com/recipes/post/shrimp-scampi/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://nmwsharp.com/recipes/post/shrimp-scampi/</guid>
-      <description>Ingredients 1 lb shrimp 1/4 cup olive oil 1/4 cup cold butter cut into 1 Tbsp chunks 1/2 cup white wine (pinot) 2 Tbsp garlic 2 tsp red pepper flakes 1/4 tsp baking soda 2 Tbsp lemon juice 1/2 cup chopped fresh parsley salt and pepper pasta french bread, sliced thin Directions Thaw and peel your shrimp, then dry them well with paper towels. Put in a sealable bowl and toss with 1/2 tsp salt and 1/2 tsp baking soda for 15 mins.</description>
+      <description>Ingredients 1 lb shrimp 1/4 cup olive oil 1/4 cup cold butter cut into 1 Tbsp chunks 1/2 cup white wine (pinot) 2 Tbsp garlic 2 tsp red pepper flakes 1/4 tsp baking soda 2 Tbsp lemon juice 1/2 cup chopped fresh parsley salt and pepper pasta french bread, sliced thin Directions Thaw and peel your shrimp, then dry them well with paper towels. Put in a sealable bowl and toss with 1/4-1/2 tsp salt and 1/2 tsp baking soda for 15 mins.</description>
     </item>
-    
     <item>
       <title>Spicy Shrimp Pasta and Cream Sauce</title>
       <link>https://nmwsharp.com/recipes/post/spicy-shrimp-pasta-and-cream-sauce/</link>
       <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://nmwsharp.com/recipes/post/spicy-shrimp-pasta-and-cream-sauce/</guid>
       <description>Ingredients Shrimp and pasta 1 pound raw peeled and deveined shrimp 1/4 cup olive oil 1/8 cup parmesan cheese 4 garlic cloves, minced 2 teaspoons brown sugar 2 teaspoons soy sauce 1/2 teaspoon red pepper flakes 1 package pasta (linguine are my favorite) Cream sauce: 3/4 cup white wine (1 mini bottle) 1/2 cup heavy cream 2 Tbsp parmesan cheese 1/8tsp - 1/4tsp cayenne pepper salt and pepper Instructions In a bowl, whisk olive oil, parmesan, brown sugar, soy sauce, garlic and red pepper flakes together.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tofu on Food for Thought</title>
+    <title>Tofu on Food for Thought</title>
     <link>https://nmwsharp.com/recipes/tags/tofu/</link>
-    <description>Recent content in tofu on Food for Thought</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tofu on Food for Thought</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nmwsharp.com/recipes/tags/tofu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nmwsharp.com/recipes/tags/tofu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mapo Tofu</title>
       <link>https://nmwsharp.com/recipes/post/mapo-tofu/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://nmwsharp.com/recipes/post/mapo-tofu/</guid>
       <description>Ingredients 1 block tofu (extra firm if available) 1lb ground pork 2 tbsp doubanjiang (chili bean paste) 4 cloves minced garlic 1 tsp minced ginger 1 stalk green onion (seperated whites and greens) Sauce: 3 tbsp chili crisp 2 tsp ground Sichuan peppercorn 1 tbsp sugar 1/4 tsp msg 1 tbsp soy sauce 1 tbsp shoaxing wine 2 cups chicken stock Slurry: 1 tbsp cornstarch 1/4 cup water Directions Cut the tofu into cubes and pour hot water all over it.</description>
     </item>
-    
     <item>
       <title>Sweet and Spicy Tofu</title>
       <link>https://nmwsharp.com/recipes/post/sweet-and-spicy-tofu/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://nmwsharp.com/recipes/post/sweet-and-spicy-tofu/</guid>
-      <description>Ingredients Tofu &amp;amp; Marinade
-1 lb firm tofu 3/4 cup tamari 1/4 cup dark sesame oil 1/4 cup sugar 1 cup cornstarch oil for frying (generally a few cups of vegetable oil) Sweet &amp;amp; Spicy Sauce
-1/4 cup honey 1/4 cup sriracha (or other chili paste/source of spice) 2 Tbs sesame oil Sesame seeds (garnish) Directions If needed, press tofu to remove liquid.
-Slice tofu in to ~3/4 inch cubes and place in shallow container.</description>
+      <description>Ingredients Tofu &amp;amp; Marinade&#xA;1 lb firm tofu 3/4 cup tamari 1/4 cup dark sesame oil 1/4 cup sugar 1 cup cornstarch oil for frying (generally a few cups of vegetable oil) Sweet &amp;amp; Spicy Sauce&#xA;1/4 cup honey 1/4 cup sriracha (or other chili paste/source of spice) 2 Tbs sesame oil Sesame seeds (garnish) Directions If needed, press tofu to remove liquid.&#xA;Slice tofu in to ~3/4 inch cubes and place in shallow container.</description>
     </item>
-    
   </channel>
 </rss>
