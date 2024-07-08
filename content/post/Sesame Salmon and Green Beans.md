@@ -2,7 +2,7 @@
 date = "2020-03-08"
 title = "Sesame Salmon and Green Beans"
 categories = ["entrees"]
-tags = []
+tags = ["salmon"]
 added_by = "Nick Sharp"
 +++
 
