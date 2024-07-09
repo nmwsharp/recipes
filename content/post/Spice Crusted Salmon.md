@@ -23,7 +23,7 @@ added_by = "Nick Sharp"
 
 Pat fillets dry with a paper towel. You can leave skin on if you like it, cooks nicely in this recipe.
 
-Season fillets generously on all sides with salt and pepper. Combine all spices into a mixture, then pat the mixture onto all sides of the salmon. You should have more than a dusting, but less than a thick crust, you may not use all of the mixture.
+Season fillets generously on all sides with salt and pepper. Combine all other spices into a mixture, then pat the mixture onto all sides of the salmon. You should have more than a dusting, but less than a thick crust, you may not use all of the mixture.
 
 Add 1Tbs cooking oil to a nonstick skillet, heat over medium-high until oil shimmers. Place fillets in oil skin-side down and cook for 2-3 minutes. Flip, then cook for another 2-3 minutes, until the crust is brown and salmon is just starting to flake apart.
 
