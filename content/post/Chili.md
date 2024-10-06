@@ -2,7 +2,7 @@
 date = "2013-11-11"
 title = "Chili"
 categories = ["soups"]
-tags = ["ground beef"]
+tags = ["ground beef", "soup season"]
 added_by = "Nick Sharp"
 +++
 

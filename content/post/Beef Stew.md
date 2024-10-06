@@ -2,7 +2,7 @@
 date = "2017-12-02"
 title = "Beef Stew"
 categories = ["soups"]
-tags = ["instant pot"]
+tags = ["instant pot", "soup season"]
 author = "Nick Sharp"
 +++
 

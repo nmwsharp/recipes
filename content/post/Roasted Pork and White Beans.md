@@ -2,7 +2,7 @@
 date = "2024-01-14"
 title = "Roasted Pork and White Beans"
 categories = ["entrees", "soups"]
-tags = ["pork"]
+tags = ["pork", "soup season"]
 added_by = "Nick Sharp"
 +++
 

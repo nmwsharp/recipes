@@ -2,7 +2,7 @@
 date = "2018-04-23"
 title = "Japanese Curry"
 categories = ["entrees"]
-tags = ["instant pot"]
+tags = ["instant pot", "soup season"]
 author = "Nick Sharp"
 +++
 
