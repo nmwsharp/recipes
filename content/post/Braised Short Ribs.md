@@ -32,7 +32,7 @@ Serving suggestion: whipped roasted garlic mashed potatoes + bread
 
 1-24hrs beforehand, prep the beef by drying and generously salting on all sides. Refrigerate until ready to proceed.
 
-Preheat the oven to 300F. Find a larger dutch over or other oven-safe & stove-safe pot with lid.
+Preheat the oven to 300F. Find a large dutch over or other oven-safe & stove-safe pot with lid.
 
 Set the pot and olive oil over medium-high heat. Briefly sear the short ribs on all sides to get a nice browning, then set them aside. Work in batches if needed. The pot may accumulate a little black gunk from the bones, scrape it out and discard if possible.
 
@@ -46,6 +46,6 @@ Once done, carefully remove the short ribs to a separate plate. Then blend the c
 
 Heat the pot over medium-low to a light simmer. Finish the gravy by adding soy sauce, butter, MSG (optional), and salt + pepper to taste.
 
-Make a cornstarch slurry by combining 1 part cornstarch with three parts cool water and whisking to combine (I use 2 Tbsp cornstarch generally). Add the slurry in spoonfuls to the gravy to thicken until the desired consistency is reached. You want it thicker than water, but only a little thicker.
+Make a cornstarch slurry by combining 1 part cornstarch with 3 parts cool water and whisking to combine (I use 2 Tbsp cornstarch generally). Add the slurry in spoonfuls to the gravy to thicken until the desired consistency is reached. You want it thicker than water, but only a little thicker.
 
 Return the ribs to the gravy to simmer together for a few minutes, then serve. 
