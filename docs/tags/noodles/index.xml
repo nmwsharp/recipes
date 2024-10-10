@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noodles on Food for Thought</title>
+    <link>http://localhost:1313/recipes/tags/noodles/</link>
+    <description>Recent content in Noodles on Food for Thought</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/recipes/tags/noodles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pork Sambal Noodles</title>
+      <link>http://localhost:1313/recipes/post/pork-sambal-noodles/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recipes/post/pork-sambal-noodles/</guid>
+      <description>&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 lb. ground pork, divided&lt;/li&gt;&#xA;&lt;li&gt;1 Tbsp olive oil&lt;/li&gt;&#xA;&lt;li&gt;4 garlic cloves, minced&lt;/li&gt;&#xA;&lt;li&gt;1&amp;quot; ginger, peeled and minced&lt;/li&gt;&#xA;&lt;li&gt;1 Tbsp sugar&lt;/li&gt;&#xA;&lt;li&gt;1 Tbsp tomato paste&lt;/li&gt;&#xA;&lt;li&gt;~3 fresh basil leaves&lt;/li&gt;&#xA;&lt;li&gt;3 Tbsp sambal oelek&lt;/li&gt;&#xA;&lt;li&gt;2 Tbsp soy sauce&lt;/li&gt;&#xA;&lt;li&gt;2 Tbsp rice vinegar&lt;/li&gt;&#xA;&lt;li&gt;1 Tbsp. unsalted butter&lt;/li&gt;&#xA;&lt;li&gt;8oz ramen noodles&lt;/li&gt;&#xA;&lt;li&gt;salt &amp;amp; pepper&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;directions&#34;&gt;Directions&lt;/h2&gt;&#xA;&lt;p&gt;Heat a olive oil in a large pot (dutch oven works well). Add half the pork, breaking into small chunks. Cook, turning only when needed for 5-10 minutes until browned on all sides.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
