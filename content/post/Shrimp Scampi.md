@@ -15,7 +15,7 @@ added_by = "Nick Sharp"
 - 1/2 cup white wine (pinot)
 - 2 Tbsp garlic
 - 2 tsp red pepper flakes
-- 1/4 tsp baking soda
+- 1/2 tsp baking soda
 - 2 Tbsp lemon juice 
 - 1/2 cup chopped fresh parsley
 - salt and pepper
