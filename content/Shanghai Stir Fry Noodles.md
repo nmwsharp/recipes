@@ -1,6 +1,6 @@
 +++
 date = "2014-11-27"
-title = "Beef and Noodle Stir Fry"
+title = "Shanghai Stir Fry Noodles"
 categories = ["entrees"]
 tags = [""]
 author = "Nick Sharp"
