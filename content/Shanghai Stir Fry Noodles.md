@@ -1,5 +1,5 @@
 +++
-date = "2014-11-27"
+date = "2024-11-27"
 title = "Shanghai Stir Fry Noodles"
 categories = ["entrees"]
 tags = [""]
@@ -44,7 +44,7 @@ image="shangai_beef_noodles.jpg"
 
 Prep all ingredients ahead of time, the cooking process goes fast. Find a wok and wok shovel. Cut green onions into 1inch pieces, keeping as much white as possible. Clean and slice mushrooms. Clean gai lan and chop into coarse chunks, slicing any thick stem pieces lengthwise to be thinner. Boil water for noodles. Mix the sauce ingrdients.
 
-Heat wok to high heat with a splash of oil until it is just starting to smoke (I use the highest setting on my electric stove). Add beef to wok, quickly distribute and add more oil as necessary to coat. Cook, stirring with shovel each minute, until beef is browned on all sides and barely cooked through (probably 4-6 min). It may stick to wok, a little sticking is fine, scrape it up with the spatula as you stir. Remove beef and set aside (use a large bowl, all set-aside ingredients can be mingled).
+Heat wok to high heat with a splash of oil until it is just starting to smoke (I use the highest setting on my electric stove). Add beef to wok, quickly distribute and add more oil as necessary to coat. Cook, stirring with shovel each minute, until beef is browned on all sides and barely cooked through (probably 4-6 min). It may stick to wok, a little sticking is fine, scrape it up with the shovel as you stir. Remove beef and set aside (use a large bowl, all set-aside ingredients can be mingled).
 
 Around now, boil noodles according to package directions, but stopping 30sec early. Drain and set aside. (Ideally, time this to be ready just before they are needed below).
 
