@@ -25,7 +25,8 @@ image="shangai_beef_noodles.jpg"
 **Velvet:**
 
 - 1/4 tsp baking soda
-- 1.5 tsp cornstarch
+- 1 tsp cornstarch
+- 1 tsp water
 - 2 tsp neutral oil 
 
 
@@ -40,7 +41,7 @@ image="shangai_beef_noodles.jpg"
 
 ## Directions
 
-30min-8hrs beforehand, slice the beef into thin strips.  Combine the velvet ingredients, and mix with the meat like a marinade. Refrigerate until ready to cook.
+30min-8hrs beforehand, slice the beef into thin strips.  Combine the velvet ingredients, and mix into the meat like a marinade. Refrigerate until ready to cook.
 
 Prep all ingredients ahead of time, the cooking process goes fast. Find a wok and wok shovel. Cut green onions into 1inch pieces, keeping as much white as possible. Clean and slice mushrooms. Clean gai lan and chop into coarse chunks, slicing any thick stem pieces lengthwise to be thinner. Boil water for noodles. Mix the sauce ingrdients.
 
