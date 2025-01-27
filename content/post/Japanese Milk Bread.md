@@ -38,7 +38,7 @@ Make tangzhong by combining all ingredients in a small saucepan and whisking rap
 
 Warm milk to ~90F (slightly above room temperature), then add yeast and mix. Allow to sit for ~10 min while proceeding with next step.
 
-Make dough by combining bread flour, salt, and sugar in a mixing bowl. Whisk together, then add milk/yeast, egg, and tangzong. Mix hand & knead (with dough hook if using mixer) until it comes together, scraping sides as needed.
+Make dough by combining bread flour, salt, and sugar in a mixing bowl. Whisk together, then add milk/yeast, egg, and tangzong. Mix hand & knead until it comes together, scraping sides as needed. (I usually find this works better to knead by hand rather than with the mixer.)
 
 Add in butter a little at a time, while mixing on medium-low. Once butter is all incorporated, knead (on medium) for ~5 min.
 
