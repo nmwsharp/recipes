@@ -15,6 +15,6 @@ Bread:
 
 ## Directions
 
-Combine all ingredient. Whip at high speed until peaks form, about 1-3 min.
+Combine all ingredients Whip at high speed until peaks form, about 1-3 min.
 
 Keeps for ~3 days in fridge.
