@@ -7,33 +7,43 @@ author = "Nick Sharp"
 
 ## Ingredients
 
-- 75g sourdough starter 
-- 500g flour 
-- 375g water (divided)
-- 10g salt
+- 227g fed sourdough starter 
+- 1.75 cup (397g) water, lukewarm (maybe a little more)
+- 600g flour 
+- 1 Tbsp (18g) table salt
+- 2 tsp diastatic malt powder (optional)
 
 
 ## Directions
 
-Feed starter before using, such that it is happy and risen to its peak when you start baking.
+This timing is set for starting early the day before, then baking the next day late in the day. You can adjust timing based on when you feed the starter and take the bread from the fridge.
 
-### The Day Before
+**(day before)**
 
-Combine starter, flour, and 350g of the water, mix until combined. Cover and let sit for 1hr to autolyse.
+Early in the day, do a large feeding of your starter, so that you will have the required 227g starter available. Wait for it to reach maximum rise, which for me is about 6hrs.
 
-Add remaining 25g of water and salt. Knead for ~10 min until glutinous and smooth.
+Combine all ingredients in a bowl. Roughly mix to combine all ingredients, but no need to knead. Place in bowl and cover. Wait 1hr.
 
-Cover and let rise for 5 hours at room temp. Roughly every 2 hours during this rise, flop the dough out of the bowl, fold it over itself a few times, and return to bowl.
+Flop bread onto counter, stretch and fold over itself 3-4 times from various angles, then reshape and return to bowl. Wait 2-3hrs.
 
-After rise, put baking cloth in bowl and dust the cloth with flour or cornmeal. Flop bread on to counter and attempt to shape in to a boule (etc). Transfer to prepared bowl, cover with airtight wrap, and refrigerate.
+Repeat the previous step 2-3 times total. The precise timing is flexible, it's not an exact science.
 
+Place bread in fridge overnight.
 
-### Bake Day
+**(day-of baking)**
 
-Preheat over to 450 degrees. Place dutch oven (or comparable oven-safe coverable dish) inside. Remove bread from fridge.
+Approximately 4hrs before baking, take the dough out of the fridge. Flop it onto the counter, lightly cover with a towel (or saran/foil), and let sit for 30min to warm slightly.
 
-Remove hot dish from oven and line with parchment paper. Flop bread in to parchment paper. (Alternately, start with parchment paper on counter, place bread on it, then transfer to dish.)
+Lightly flour a banneton or other bread vessel. Form the dough into a loaf by stretching, folding like a book, tightly rolling, and pinching the ends. Place it in the vessel and cover.
 
-Bake covered for ~25 min, then remove lid and bake ~15 minute more until dark brown on top.
+Let it rise for 2-3 hours, there should be some small visible expansion and change in texture.
 
-Transfer from dish to cooling tray ASAP, allow to cool for at least 1hr before serving.
+Preheat the oven to 500F. Transfer the bread to a baker (I use a dutch oven) with parchment paper inside. Score the top. Place lid on baker.
+
+Transfer to oven, reduce temp to 450F. Bake for 45min. 
+
+Remove top from baker, bake for 10-15min more. The crust should be deep golden brown, and inside of loaf should reach 210F.
+
+Remove from oven and transfer bread to rack to cool for at least 1hr before slicing.
+
+Bread is best day-of. To store, place in a plastic or paper bag. Ideally let the bread fully cool and give off its moisture before bagging.
