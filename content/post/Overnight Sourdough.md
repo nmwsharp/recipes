@@ -28,7 +28,7 @@ Flop bread onto counter, stretch and fold over itself 3-4 times from various ang
 
 Repeat the previous step 2-3 times total. The precise timing is flexible, it's not an exact science.
 
-Place bread in fridge overnight.
+Place dough in fridge overnight.
 
 **(day-of baking)**
 

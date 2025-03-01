@@ -24,8 +24,10 @@ author = "Nick Sharp"
 **Compound Butter** (optional) :
 
 - 1/2 stick of butter
-any combination of:
 - 1tsp salt (if unsalted butter)
+
+any combination of:
+
 - 1 small clove garlic
 - 2 leaves sage
 - small sprig rosemary
