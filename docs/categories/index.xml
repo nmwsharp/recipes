@@ -6,12 +6,12 @@
     <description>Recent content in Categories on Food for Thought</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nmwsharp.com/recipes/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entrees</title>
       <link>https://nmwsharp.com/recipes/categories/entrees/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://nmwsharp.com/recipes/categories/entrees/</guid>
       <description></description>
     </item>
@@ -37,17 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Breakfast</title>
-      <link>https://nmwsharp.com/recipes/categories/breakfast/</link>
+      <title>Desserts</title>
+      <link>https://nmwsharp.com/recipes/categories/desserts/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://nmwsharp.com/recipes/categories/breakfast/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dessert</title>
-      <link>https://nmwsharp.com/recipes/categories/dessert/</link>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://nmwsharp.com/recipes/categories/dessert/</guid>
+      <guid>https://nmwsharp.com/recipes/categories/desserts/</guid>
       <description></description>
     </item>
     <item>
@@ -65,10 +58,10 @@
       <description></description>
     </item>
     <item>
-      <title>Desserts</title>
-      <link>https://nmwsharp.com/recipes/categories/desserts/</link>
-      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://nmwsharp.com/recipes/categories/desserts/</guid>
+      <title>Breakfast</title>
+      <link>https://nmwsharp.com/recipes/categories/breakfast/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nmwsharp.com/recipes/categories/breakfast/</guid>
       <description></description>
     </item>
   </channel>
