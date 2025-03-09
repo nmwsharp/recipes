@@ -2,7 +2,7 @@
 date = "2024-03-22"
 title = "Spice Crusted Salmon"
 categories = ["entrees"]
-tags = ["salmon"]
+tags = ["salmon", "fish"]
 added_by = "Nick Sharp"
 +++
 

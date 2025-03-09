@@ -1,7 +1,7 @@
 +++
 date = "2023-03-18"
 title = "Whipped Cream"
-categories = ["dessert", "breakfast"]
+categories = ["desserts"]
 author = "Nick Sharp"
 +++
 

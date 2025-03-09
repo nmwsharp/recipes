@@ -2,7 +2,7 @@
 date = "2024-04-03"
 title = "Baked Okra"
 categories = ["sides"]
-tags = []
+tags = ["indian"]
 author = "Nick Sharp"
 +++
 

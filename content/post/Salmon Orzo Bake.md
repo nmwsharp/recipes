@@ -2,7 +2,7 @@
 date = "2023-02-25"
 title = "Salmon & Orzo Bake"
 categories = ["entrees"]
-tags = ["salmon"]
+tags = ["salmon", "fish"]
 author = "Nick Sharp"
 +++
 
