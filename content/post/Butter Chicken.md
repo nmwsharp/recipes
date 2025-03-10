@@ -12,8 +12,8 @@ author = "Nick Sharp"
 
 - 3 lbs of boneless chicken thighs
 - 1/2 cup greek yogurt
-- 2 Tbsp lemon juice
-- 2 Tbsp white wine vinegar
+- 3 Tbsp lemon juice
+- 2 Tbsp white wine vinegar (rice vinegar also works)
 - 6 Tbsp neutral oil
 - 1 small piece fresh ginger, grated
 - 6 Tbsp Sharwood’s Tandoori Spice (see mix below)
@@ -22,7 +22,7 @@ author = "Nick Sharp"
 
 **Sharwood spice mix:**
 
-- 3 Tbsp paprika
+- 3 Tbsp paprika (maybe go light on this if your paprika is strong and smokey)
 - 1 Tbsp ground turmeric
 - 1 tsp garlic powder
 - 1 tsp ground nutmeg
@@ -49,7 +49,7 @@ author = "Nick Sharp"
 - 1.5 Tbsp fenugreek leaves
 - 1 Tbsp salt
 - 0.5 tsp sugar
-- 1/2 cup heavy cream
+- 3/4 cup heavy cream
 - 4 Tbsp unsalted butter, cut into pieces
 
 
@@ -67,8 +67,8 @@ Add cashews and their liquid, gently deglaze the pan, then add tomatoes includin
 
 Cover, and simmer until liquid has reduced, stirring occasionally, about 40min.
 
-Meanwhile, cook the chicken. Spread the chicken on a greased wire rack with a baking sheet underneath, retaining as much marinade as will stick to the chicken. Adjust an oven rack so the chicken will be ~3in from the broiler. Broil for 8-15min more until browned on top and cooked through, it should be lightly charred in places. No need to flip. Timing can vary significantly based on your oven, keep an eye on it. Remove from oven and set aside.
-
+Meanwhile, cook the chicken. Spread the chicken on a greased wire rack with a baking sheet underneath, retaining as much marinade as will stick to the chicken. Adjust an oven rack so the chicken will be ~3in from the broiler. Broil for 8-15min more until browned on top and cooked through, it should be lightly charred in places. No need to flip. Timing can vary significantly based on your oven, keep an eye on it. Remove from oven and set aside. Optionally, chop the chicken into smaller bite-size pieces.
+ 
 Once the sauce is done, remove it from the heat and blend (or immersion blend in-place) until smooth. Add the butter and cream, then blend more until emulsified.
 
-Return sauce to pot. Add chicken and all juices to pot. Simmer for a few minutes to incorporate.
+Return sauce to pot. Add chicken and all juices to pot. Add cilantro. Stir and simmer for a few minutes to incorporate. Add adjust with salt/pepper/spice/etc if needed and serve.
