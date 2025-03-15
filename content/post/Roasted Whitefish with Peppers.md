@@ -10,7 +10,7 @@ author = "Nick Sharp"
 
 - 1.5 lbs whitefish fillets (hake, cod, flounder, etc)
 - 4 sprigs fresh thyme (divided)
-- 3 bell peppers, mix of colors, thinly sliced
+- 3 bell peppers, mix of red/orange/yellow, thinly sliced
 - 1/4 cup black or green olives, pitted and sliced
 - 1 clove garlic
 - 1 cup parsley loosely packed parsley, chopped
