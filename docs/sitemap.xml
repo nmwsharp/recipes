@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nmwsharp.com/recipes/categories/bread/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nmwsharp.com/recipes/categories/</loc>
-    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/sourdough-english-muffins/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/tags/fish/</loc>
-    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/</loc>
-    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/post/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/roasted-whitefish-with-peppers/</loc>
@@ -97,9 +103,6 @@
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/whipped-cream/</loc>
     <lastmod>2023-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/categories/bread/</loc>
-    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/harvest-grain-loaf/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
