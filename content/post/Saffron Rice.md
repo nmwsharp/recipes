@@ -10,8 +10,8 @@ author = "Nick Sharp"
 
 - 1/4 tsp saffron threads
 - 1 small yellow onion, minced
-- 2 cups white rice
-- 3 cups chicken stock
+- 2 ricecooker cups of white rice (which are actually 3/4 cup each)
+- 2.75 cups chicken stock
 - 3/4 tsp salt
 - olive oil
 
