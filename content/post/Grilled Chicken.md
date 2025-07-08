@@ -18,14 +18,12 @@ author = "Nick Sharp"
 - 1/4 cup lemon juice (half a lemon is close enough)
 - 3 cloves garlic, grated/pressed/chopped
 - 1 tsp dried rosemary
-- 1/2 tsp red pepper flakes
 - 1/2 tsp salt
 - 1/2 tsp ground black pepper
 - 1/4 cup brown sugar
 - 2 tsp balsamic vinegar
 - 1 Tbsp soy sauce
 - 1 Tbsp dijon or brown mustard
-- 2 tsp Worchestershire sauce
 
 All ingredients in the marinade (except oil) should be treated as optional and approximate. Don't hesitate to add, remove, or adjust amounts.
 
