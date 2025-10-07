@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Food for Thought</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nmwsharp.com/recipes/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breakfast</title>
+      <link>https://nmwsharp.com/recipes/categories/breakfast/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://nmwsharp.com/recipes/categories/breakfast/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Entrees</title>
       <link>https://nmwsharp.com/recipes/categories/entrees/</link>
@@ -55,13 +62,6 @@
       <link>https://nmwsharp.com/recipes/categories/cocktails/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://nmwsharp.com/recipes/categories/cocktails/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Breakfast</title>
-      <link>https://nmwsharp.com/recipes/categories/breakfast/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://nmwsharp.com/recipes/categories/breakfast/</guid>
       <description></description>
     </item>
   </channel>
