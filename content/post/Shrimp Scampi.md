@@ -41,7 +41,7 @@ Stir it all together, and then let it simmer well until reduced by about half an
 
 Cover bread with a light layer of olive oil and put in oven to toast.
 
-Add the cold butter, 1 Tbsp at a time, and CONSTANTLY WHISK. This is what makes the sauce smooth and not watery. After all butter has been introduced, add lemon just and reduce to low heat. The bread will be done at some point around here, don't burn it.
+Add the cold butter, 1 Tbsp at a time, and CONSTANTLY WHISK. This is what makes the sauce smooth and not watery. After all butter has been introduced, add lemon juice and reduce to low heat. The bread will be done at some point around here, don't burn it.
 
 Now, add the shrimp back and toss and coat and put back on heat until just starting to sizzle and warmed again. Add most of the parsley and stir together.
 

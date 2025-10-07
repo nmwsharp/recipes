@@ -30,7 +30,7 @@ Feeds 2. Can easily be doubled to feed 4.
 
 Preheat oven to 400F.
 
-Find a ~2 qt baking dish. Add oil, butter, lemon juice, parsley, salt, pepper, garlic powder, and lemon juice. Use a fork to mix ingredients and for a marinade.
+Find a ~2 qt baking dish. Add oil, butter, parsley, salt, pepper, garlic powder, and lemon juice. Use a fork to mix ingredients and form a marinade.
 
 Dip salmon fillets in marinade to coat, set aside.
 

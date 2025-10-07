@@ -1,6 +1,6 @@
 +++
 date = "2020-03-08"
-title = "Sesame Salmon and Green Beans"
+title = "Teriyaki Salmon and Green Beans"
 categories = ["entrees"]
 tags = ["salmon", "fish"]
 added_by = "Nick Sharp"
@@ -13,17 +13,18 @@ added_by = "Nick Sharp"
 - 2/3 lb green beans
 - splash of oil for cooking
 - rice
+- 1 Tbsp toasted sesame seeds
 
 ### glaze:
-- 3 Tbsp soy sauce
-- 1 Tbsp water
-- 2 Tbsp rice wine (mirin)
+
+- 1 Tbsp cornstarch
 - 2 Tbsp brown sugar
+- 3 Tbsp soy sauce
+- 2 Tbsp rice wine (mirin)
 - 1/2 Tbsp toasted sesame oil
+- 1 Tbsp water
 - 1 clove garlic, minced
 - 1/2 inch fresh ginger, grated (optional)
-- 1 Tbsp sesame seeds
-- 1 Tbsp cornstarch
 
 ## Directions
 
@@ -39,4 +40,4 @@ Heat a non-stick skillet and add splash of oil. Add salmon steaks to pan, but _d
 
 Add beans to the recently-vacated salmon pan and cover with remaining sauce. Cook, stirring frequently, just until sauce thickens and coats beans (~3 min).
 
-Plate rice, beans, and salmon. Salmon skin is edible if you want!
+Plate rice, beans, and salmon. Garnish with sesame seeds. Salmon skin is edible if you want!
