@@ -1,8 +1,8 @@
 +++
 date = "2025-10-08"
 title = "Broiled Halloumi with Tomatoes and Beans"
-categories = ["Entrees"]
-tags = ["vegetarian"]
+categories = ["entrees"]
+tags = ["vegetarian", "soup season"]
 author = "Nick Sharp"
 +++
 

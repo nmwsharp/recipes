@@ -1,7 +1,7 @@
 +++
 date = "2015-04-15"
 title = "French Toast"
-categories = ["desserts"]
+categories = ["breakfast"]
 author = "Nick Sharp"
 +++
 
