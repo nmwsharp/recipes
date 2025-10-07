@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nmwsharp.com/recipes/</loc>
-    <lastmod>2025-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/post/</loc>
-    <lastmod>2025-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/categories/breakfast/</loc>
-    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+    <loc>https://nmwsharp.com/recipes/post/broiled-halloumi-with-tomatoes-and-beans/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/categories/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/tags/soup-season/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/tags/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/tags/vegetarian/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/categories/breakfast/</loc>
     <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/nut-butter-overnight-oats/</loc>
@@ -20,13 +35,7 @@
     <loc>https://nmwsharp.com/recipes/tags/chicken/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nmwsharp.com/recipes/categories/entrees/</loc>
-    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nmwsharp.com/recipes/post/grilled-chicken/</loc>
-    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/tags/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/categories/bread/</loc>
@@ -51,9 +60,6 @@
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/braised-short-ribs/</loc>
-    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/tags/soup-season/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/chipotle-shrimp-tacos/</loc>
