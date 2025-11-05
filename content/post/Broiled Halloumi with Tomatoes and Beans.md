@@ -1,12 +1,12 @@
 +++
-date = "2025-10-08"
+date = "2025-10-07"
 title = "Broiled Halloumi with Tomatoes and Beans"
 categories = ["entrees"]
 tags = ["vegetarian", "soup season"]
 author = "Nick Sharp"
 +++
 
-Adapted from the excellent New York Times recipe.
+Originally adapted from the excellent New York Times recipe.
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Makes enough food for 2, can be easily doubled if you have a decent-sized pan. P
 
 ## Instructions
 
-Prep ingredients, this cooks pretty fast. Find a wide flat pan which is stovetop-safe and broiler-safe (I use a cast iron pan).  Preheat the oven, adjusting the top rack to put the pan about 4 inches from the broiler.
+Prep ingredients, this cooks pretty fast. Find a wide flat pan which is stovetop-safe and broiler-safe (I use a cast iron pan).  Preheat the oven on broil (low broil setting on my oven), adjusting the top rack to put the pan about 4 inches from the broiler.
 
 Put the pan on the stove at medium heat. Add tomatoes, garlic, parsley, honey, herbs, and a light drizzle of olive oil. Cook until the tomatoes start to get soft, 8-10 minutes. Season with salt and pepper.
 
