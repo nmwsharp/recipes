@@ -17,8 +17,8 @@ image="shangai_beef_noodles.jpg"
 - 1 bunch gai lan (Chinese broccoli) or baby bok choy
 - 3 cloves garlic, coarsely-chopped
 - 1 teaspoon ginger, grated
-- Thai red birds-eye chiles, thin-sliced (or similar chiles, to taste)
-- red pepper flakes (or other spiciness)
+- 3 or 4 Thai red birds-eye chiles, thin-sliced (or similar chiles, to taste)
+- 1/2 tsp red pepper flakes (or other spiciness)
 - 1 Tbsp shaoxing wine
 - neutral oil (e.g. canola or vegetable oil)
 
@@ -43,7 +43,7 @@ image="shangai_beef_noodles.jpg"
 
 30min-8hrs beforehand, slice the beef into thin strips.  Combine the velvet ingredients, and mix into the meat like a marinade. Refrigerate until ready to cook.
 
-Prep all ingredients ahead of time, the cooking process goes fast. Find a wok and wok shovel. Cut green onions into 1inch pieces, keeping as much white as possible. Clean and slice mushrooms. Clean gai lan and chop into coarse chunks, slicing any thick stem pieces lengthwise to be thinner. Boil water for noodles. Mix the sauce ingrdients.
+Prep all ingredients ahead of time, the cooking process goes fast. Find a wok and wok shovel. Cut green onions into 1inch pieces, keeping as much white as possible. Clean and slice mushrooms. Clean gai lan and chop into coarse chunks, slicing any thick stem pieces lengthwise to be thinner. Boil water for noodles. Mix the sauce ingredients.
 
 Heat wok to high heat with a splash of oil until it is just starting to smoke (I use the highest setting on my electric stove). Add beef to wok, quickly distribute and add more oil as necessary to coat. Cook, stirring with shovel each minute, until beef is browned on all sides and barely cooked through (probably 4-6 min). It may stick to wok, a little sticking is fine, scrape it up with the shovel as you stir. Remove beef and set aside (use a large bowl, all set-aside ingredients can be mingled).
 
