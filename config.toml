@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Food for Thought"
 publishDir = "docs"
 
+[Pagination]
+  pagerSize = 100
+
 [params]
   description = "A collection of tasty things."
   author = "Nick Sharp"
