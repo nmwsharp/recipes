@@ -2,7 +2,7 @@
 date = "2021-12-27"
 title = "Beef Wellington"
 categories = ["entrees"]
-tags = [""]
+tags = []
 author = "Nick Sharp"
 +++
 
