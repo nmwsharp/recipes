@@ -1,6 +1,6 @@
 +++
 date = "2023-05-10"
-title = "Butter Chicken"
+title = "Butter + Tandoori Chicken"
 categories = ["entrees"]
 tags = ["chicken", "indian"]
 author = "Nick Sharp"
@@ -22,7 +22,7 @@ author = "Nick Sharp"
 
 **Sharwood spice mix:**
 
-- 3 Tbsp paprika (maybe go light on this if your paprika is strong and smokey)
+- 3 Tbsp paprika (try to find a paprika which is _not_ smokey, American grocery stores might have it in the Hispanic foods section)
 - 1 Tbsp ground turmeric
 - 1 tsp garlic powder
 - 1 tsp ground nutmeg
@@ -61,7 +61,7 @@ Prep ingredients. Add raw cashews to a small microwave safe bowl with 1/4 cup wa
 
 Preheat the oven broiler.
 
-Place a large dutch oven or pot on the stove over medium heat. Add the onion and neutral oil, cook for ~12 min until onion is turning golden. Add ginger and garlic, cook for 2min. Add spices (garam masala, cumin, cayenne, and fenugreek leaves) and cook for 1min more, being careful not to let the spices burn.
+Place a large dutch oven or pot on the stove over medium heat. Add the onion and neutral oil, cook for ~12 min until onion is turning golden. Add ginger, garlic, and chiles, and cook for 2min. Add spices (garam masala, cumin, cayenne, and fenugreek leaves) and cook for 1min more, being careful not to let the spices burn.
 
 Add cashews and their liquid, gently deglaze the pan, then add tomatoes including liquid. Add 1 cup water, sugar, and salt. Use a spoon to roughly crush tomatoes.
 
