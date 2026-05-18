@@ -2,7 +2,7 @@
 date = "2024-11-27"
 title = "Shanghai Stir Fry Noodles"
 categories = ["entrees"]
-tags = [""]
+tags = []
 author = "Nick Sharp"
 image="shangai_beef_noodles.jpg"
 +++

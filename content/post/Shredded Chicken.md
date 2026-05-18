@@ -2,7 +2,7 @@
 date = "2017-12-02"
 title = "Shredded Chicken"
 categories = ["entrees"]
-tags = ["chicken", "instant-pot"]
+tags = ["chicken", "instant pot"]
 author = "Nick Sharp"
 +++
 

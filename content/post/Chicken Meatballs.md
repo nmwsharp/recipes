@@ -2,7 +2,7 @@
 date = "2021-06-03"
 title = "Chicken Meatballs"
 categories = ["entrees"]
-tags = []
+tags = ["chicken"]
 author = "Nick Sharp"
 +++
 

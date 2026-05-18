@@ -2,7 +2,7 @@
 date = "2024-07-01"
 title = "Black Bean Summer Salsa"
 categories = ["entrees"]
-tags = []
+tags = ["vegetarian"]
 author = "Nick Sharp"
 +++
 

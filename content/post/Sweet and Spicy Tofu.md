@@ -2,7 +2,7 @@
 date = "2020-04-20"
 title = "Sweet and Spicy Tofu"
 categories = ["entrees"]
-tags = ["tofu"]
+tags = ["tofu", "vegetarian"]
 added_by = "Nick Sharp"
 +++
 

@@ -2,7 +2,7 @@
 date = "2023-01-27"
 title = "French Onion Soup"
 categories = ["soups"]
-tags = []
+tags = ["soup season"]
 added_by = "Nick Sharp"
 +++
 

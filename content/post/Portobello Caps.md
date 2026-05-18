@@ -2,7 +2,7 @@
 date = "2019-04-17"
 title = "Portobello Caps"
 categories = ["entrees"]
-tags = []
+tags = ["vegetarian"]
 added_by = "Nick Sharp"
 +++
 

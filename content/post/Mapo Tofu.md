@@ -2,7 +2,7 @@
 date = "2021-05-23"
 title = "Mapo Tofu"
 categories = ["entrees"]
-tags = ["tofu"]
+tags = ["pork", "tofu"]
 author = "Mariah Arndorfer"
 +++
 

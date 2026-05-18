@@ -1,8 +1,8 @@
 +++
 date = "2024-05-17"
 title = "General Tso's Chicken"
-categories = ["entrees", "chicken"]
-tags = []
+categories = ["entrees"]
+tags = ["chicken"]
 added_by = "Nick Sharp"
 +++
 

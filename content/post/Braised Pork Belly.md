@@ -2,7 +2,7 @@
 date = "2019-04-25"
 title = "Sichuan-Style Braised Pork"
 categories = ["entrees"]
-tags = ["instant pot"]
+tags = ["instant pot", "pork"]
 added_by = "Nick Sharp"
 +++
 

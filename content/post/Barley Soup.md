@@ -2,6 +2,7 @@
 date = "2017-03-01"
 title = "Barley Soup"
 categories = ["soups"]
+tags = ["soup season"]
 author = "Nick Sharp"
 +++
 

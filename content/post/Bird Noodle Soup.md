@@ -2,7 +2,7 @@
 date = "2022-10-09"
 title = "Bird Noodle Soup"
 categories = ["soups"]
-tags = ["chicken"]
+tags = ["chicken", "soup season"]
 added_by = "Nick Sharp"
 +++
 

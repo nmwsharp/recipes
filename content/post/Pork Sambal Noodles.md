@@ -2,7 +2,7 @@
 date = "2024-05-12"
 title = "Pork Sambal Noodles"
 categories = ["entrees"]
-tags = []
+tags = ["pork"]
 author = "Nick Sharp"
 +++
 

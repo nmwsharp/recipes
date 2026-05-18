@@ -2,7 +2,7 @@
 date = "2023-10-25"
 title = "Gochujang Chorizo and Rice Cakes"
 categories = ["entrees"]
-tags = [""]
+tags = ["pork"]
 added_by = "Nick Sharp"
 +++
 

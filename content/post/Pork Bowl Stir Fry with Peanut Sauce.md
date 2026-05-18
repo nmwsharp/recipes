@@ -2,7 +2,7 @@
 date = "2017-12-02"
 title = "Pork Bowl Stir Fry with Peanut Sauce"
 categories = ["entrees"]
-tags = []
+tags = ["pork"]
 author = "Nick Sharp"
 +++
 

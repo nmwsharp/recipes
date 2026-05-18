@@ -2,7 +2,7 @@
 date = "2017-07-11"
 title = "Chicken Tikka Masala"
 categories = ["entrees"]
-tags = ["chicken"]
+tags = ["chicken", "indian"]
 author = "Nick Sharp"
 +++
 

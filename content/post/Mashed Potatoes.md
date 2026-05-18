@@ -2,7 +2,7 @@
 date = "2021-08-01"
 title = "Mashed Potatoes"
 categories = ["sides"]
-tags = ["thanksgiving"]
+tags = ["instant pot", "thanksgiving"]
 author = "Nick Sharp"
 +++
 

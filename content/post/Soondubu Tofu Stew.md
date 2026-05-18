@@ -2,7 +2,7 @@
 date = "2022-01-18"
 title = "Soondubu Tofu Stew"
 categories = ["soups"]
-tags = [""]
+tags = ["pork", "soup season", "tofu"]
 added_by = "Nick Sharp"
 +++
 

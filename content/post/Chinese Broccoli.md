@@ -2,7 +2,7 @@
 date = "2022-01-18"
 title = "Chinese Broccoli"
 categories = ["sides"]
-tags = [""]
+tags = ["vegetarian"]
 added_by = "Nick Sharp"
 +++
 
