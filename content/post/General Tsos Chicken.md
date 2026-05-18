@@ -71,6 +71,6 @@ Preheat the oven to 425°F. Preheat fry oil to 350°F (or be ready to do so in a
 
 **Fry chicken:** Heat oil in a fryer, wok, Dutch oven, etc to 350°F and maintain that heat while frying. One piece at a time, transfer chicken from marinade to dry coat, tossing and compressing by-hand to coat. Once a batch of chicken is coated, fry, agitating occasionally, until very crispy and at an internal temp of 165°F, about 4 minutes. Then remove and drain on a paper towel-lined bowl, and continue with next batch.
 
-**Finish** In a wok or large pan, heat 2 Tbsp oil on medium-high, add the minced garlic, ginger, scallion bottoms, and chiles. Cook until fragrant but not browned, about 2 minutes. Re-stir the prepped sauce bowl to recombine any separated ingredients, then add it to the wok. Lower heat to medium-low, and cook, stirring, until sauce boils and thickens, about 1 minute. 
+**Finish:** In a wok or large pan, heat 2 Tbsp oil on medium-high, add the minced garlic, ginger, scallion bottoms, and chiles. Cook until fragrant but not browned, about 2 minutes. Re-stir the prepped sauce bowl to recombine any separated ingredients, then add it to the wok. Lower heat to medium-low, and cook, stirring, until sauce boils and thickens, about 1 minute. 
 
 Toss the chicken and broccoli in the sauce until everything is thoroughly coated. Garnish with sliced scallions and sesame seeds. Serve immediately with white rice.
