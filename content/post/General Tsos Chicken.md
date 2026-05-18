@@ -43,11 +43,12 @@ Adapted from [Serious Eats](https://www.seriouseats.com/the-best-general-tsos-ch
 - 6 Tbsp Chinese rice vinegar or distilled white vinegar
 - 3 Tbsp cornstarch
 - 1 Tbsp toasted sesame oil
-- 2 Tbsp peanut or vegetable oil
 - 1/2 tsp MSG (optional)
+- 2 Tbsp peanut or vegetable oil
 - 6 cloves minced garlic
 - 1 inch minced/grated fresh ginger
 - 2-8 thai birds-eye chiles, finely chopped
+- dried Chinese-style red chiles (optional, to taste)
 - 1 bunch scallions, whites and middles chopped (chop tops and reserve for garnish)
 - 2 Tbsp toasted sesame seeds, for garnish
 
@@ -64,12 +65,12 @@ Preheat the oven to 425°F. Preheat fry oil to 350°F (or be ready to do so in a
 
 **Dry coat:** Combine flour, cornstarch, baking powder, and salt and whisk until uniform. Add the reserved marinade and whisk until the mixture forms coarse clumps. Set aside.
 
-**Prep sauce** Combine sugar, stock, soy sauce, wine, vinegar, cornstarch, and sesame oil in a small bowl and stir until cornstarch is fully dissolved. 
+**Prep sauce** Combine sugar, stock, soy sauce, oyster sauce, Shaoxing wine, rice vinegar, cornstarch, sesame oil, and MSG in a small bowl and stir until cornstarch is fully dissolved. 
 
 **Cook broccoli:** Place broccoli on a sheet pan, lightly salt and a pepper to taste. Roast in the oven until tender and slightly charred, about 15 minutes. Set aside.
 
 **Fry chicken:** Heat oil in a fryer, wok, Dutch oven, etc to 350°F and maintain that heat while frying. One piece at a time, transfer chicken from marinade to dry coat, tossing and compressing by-hand to coat. Once a batch of chicken is coated, fry, agitating occasionally, until very crispy and at an internal temp of 165°F, about 4 minutes. Then remove and drain on a paper towel-lined bowl, and continue with next batch.
 
-**Finish** In a wok or large pan, heat 2 Tbsp oil on medium-high, add the minced garlic, ginger, scallion bottoms, and chiles. Cook until fragrant but not browned, about 2 minutes. Mix the prepped sauce bowl to recombine, then add it to the wok. Lower heat to low, and cook, stirring, until sauce boils and thickens, about 1 minute. 
+**Finish** In a wok or large pan, heat 2 Tbsp oil on medium-high, add the minced garlic, ginger, scallion bottoms, and chiles. Cook until fragrant but not browned, about 2 minutes. Re-stir the prepped sauce bowl to recombine any separated ingredients, then add it to the wok. Lower heat to medium-low, and cook, stirring, until sauce boils and thickens, about 1 minute. 
 
 Toss the chicken and broccoli in the sauce until everything is thoroughly coated. Garnish with sliced scallions and sesame seeds. Serve immediately with white rice.
