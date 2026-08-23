@@ -14,6 +14,7 @@ image="shangai_beef_noodles.jpg"
 - ~14oz udon noodles (2/3 of a 3-pack, should be refrigerated not dry)
 - 1 bunch green onion
 - 8oz fresh mushrooms (portabello or shiitake)
+- 1 bell pepper, chopped into square-ish chunks
 - 1 bunch gai lan (Chinese broccoli) or baby bok choy
 - 3 cloves garlic, coarsely-chopped
 - 1 teaspoon ginger, grated
@@ -36,7 +37,9 @@ image="shangai_beef_noodles.jpg"
 - 1 Tbsp light dark sauce
 - 1 Tbsp shaoxing wine
 - 0.5 Tbsp gochujang
-- 1/2 tsp sugar
+- 1 Tbsp oyster sauce
+- 1/4 tsp sugar
+- 1/2 tsp MSG (optional)
 
 
 ## Directions
@@ -49,19 +52,9 @@ Heat wok to high heat with a splash of oil until it is just starting to smoke (I
 
 Around now, boil noodles according to package directions, but stopping 30sec early. Drain and set aside. (Ideally, time this to be ready just before they are needed below).
 
-Add another splash oil to the wok. Add green onions, cook for 30sec. Add mushrooms. Cook, tossing stirring frequently as with the beef, until mushrooms are done (2-5 min). Remove contents from wok and set aside.
+Add another splash oil to the wok. Add green onions, cook for 30sec. Add mushrooms and bell pepper. Cook, tossing stirring frequently as with the beef, until done (2-5 min). Remove contents from wok and set aside.
 
 Add another splash of oil to the wok. Add garlic, cook for 30 sec. Then add ginger, chiles, and red pepper flakes (or other spicy) and cook for a few seconds. Then add gai lan, tossing to coat. Cook for 1 min, then add 1 Tbsp shaoxing wine an 1 Tbsp water. Toss quickly, then gather in center of wok and cover with a pot lid to trap the steam (its fine if its smaller than the wok). Leave covered for 1 min or until gai lan has softened. Remove the contents of the wok and set aside as before.
 
 Add another splash of oil to the wok. Add the cooked noodles, then cook in the wok for 1min, stirring frequently (they will stick and be difficult! it's fine, scrape the wok as before). Then add the sauce, stir, and cook for 2min, stirring frequently. Add all reserved ingredients back to the wok, stir for 1-2min to reheat and combine, then serve!
 
-
-## Notes
-
-Maybe add bell peppers?
-
-Other sources of spicy?
-
-Oyster sauce in sauce? 
-
-Generally keep thinking about the sauce.
