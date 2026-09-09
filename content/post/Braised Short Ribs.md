@@ -40,12 +40,14 @@ In the same pan, add the mirepoix (onion + carrots + celery). Saute for 5-10 min
 
 Pour the beef stock into the pot with the mirepoix to deglaze. Add the sprigs of thyme and rosemary. Place the short ribs back into the pot, ensuring they are mostly submerged.
 
-Cover the pot, place in the 300F oven, and cook for 3 hours. You shouldn't need to stir. Enjoy the smells. (Alternative: pressure cook for 35min)
+Cover the pot, place in the 300F oven, and cook for 3 hours. You shouldn't need to stir. Enjoy the smells. Alternately, pressure cook for 35min. (Note: I think it might help to cook for even longer than this, 4-5 hrs, but I have not tried it.)
 
-Once done, carefully remove the short ribs to a separate plate. Then blend the contents of the pot, pass through a strainer to remove and discard solids, then return the liquid to the pot.
+Once done, carefully remove the short ribs to a separate plate. Blend the other contents of the pot and pass through a strainer to remove and discard solids, then return the liquid to the pot.
 
 Heat the pot over medium-low to a light simmer. Finish the gravy by adding soy sauce, butter, MSG (optional), and salt + pepper to taste.
 
 Make a cornstarch slurry by combining 1 part cornstarch with 3 parts cool water and whisking to combine (I use 2 Tbsp cornstarch generally). Add the slurry in spoonfuls to the gravy to thicken until the desired consistency is reached. You want it thicker than water, but only a little thicker.
 
-Return the ribs to the gravy to simmer together for a few minutes, then serve. 
+Meanwhile, prepare the meat. In theory, the beef ribs can hold together and be served whole as-is. However, I find with some ribs the connective tissue and fat will not break down fully in time, make it unpleasant to eat (try eating a few bites to check if needed). If this seems like the case, manually pull the good meat off the bones/tissue. You'll have to really go at it with a spoons / hands / etc, and you'll end up with a pile of small pieces of meat, but it is worth it.
+
+Return the ribs (or separated rib meat) to the gravy to simmer together for a few minutes, then serve. 
