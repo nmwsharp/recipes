@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nmwsharp.com/recipes/categories/bread/</loc>
+    <lastmod>2026-10-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nmwsharp.com/recipes/categories/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nmwsharp.com/recipes/post/overnight-pizza-dough/</loc>
+    <lastmod>2026-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/categories/salads/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
@@ -19,9 +25,6 @@
   </url><url>
     <loc>https://nmwsharp.com/recipes/post/warm-goat-cheese-and-spiced-pecan-salad/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nmwsharp.com/recipes/categories/bread/</loc>
-    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nmwsharp.com/recipes/tags/indian/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
