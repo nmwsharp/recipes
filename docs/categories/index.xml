@@ -6,8 +6,29 @@
     <description>Recent content in Categories on Food for Thought</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nmwsharp.com/recipes/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breakfast</title>
+      <link>https://nmwsharp.com/recipes/categories/breakfast/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://nmwsharp.com/recipes/categories/breakfast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desserts</title>
+      <link>https://nmwsharp.com/recipes/categories/desserts/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://nmwsharp.com/recipes/categories/desserts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sides</title>
+      <link>https://nmwsharp.com/recipes/categories/sides/</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://nmwsharp.com/recipes/categories/sides/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Bread</title>
       <link>https://nmwsharp.com/recipes/categories/bread/</link>
@@ -23,24 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Sides</title>
-      <link>https://nmwsharp.com/recipes/categories/sides/</link>
-      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://nmwsharp.com/recipes/categories/sides/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Entrees</title>
       <link>https://nmwsharp.com/recipes/categories/entrees/</link>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://nmwsharp.com/recipes/categories/entrees/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Breakfast</title>
-      <link>https://nmwsharp.com/recipes/categories/breakfast/</link>
-      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://nmwsharp.com/recipes/categories/breakfast/</guid>
       <description></description>
     </item>
     <item>
@@ -55,13 +62,6 @@
       <link>https://nmwsharp.com/recipes/categories/pasta/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://nmwsharp.com/recipes/categories/pasta/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Desserts</title>
-      <link>https://nmwsharp.com/recipes/categories/desserts/</link>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://nmwsharp.com/recipes/categories/desserts/</guid>
       <description></description>
     </item>
     <item>
