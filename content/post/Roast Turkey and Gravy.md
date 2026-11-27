@@ -44,7 +44,7 @@ While the turkey roasts, make gravy. Chop the neck, backbone, and giblets. Heat 
 
 After simmering the gravy, strain it through a fine mesh strainer in to a separate bowl, and discard solids. Skim off any fat from the surface.
 
-In the now-empty pan that was used for gravy, melt butter. Add flour and cook, stirring constantly until golden brown, about 3 minutes. While whisking constantly, pour the strained broth back in at a thin, steady stream until incorporated.  Simmer the gravy until somewhat reduced, about 20 minutes longer. Season with salt and pepper, and reduce heat to just barely keep warm.
+In the now-empty pan that was used for gravy, melt butter. Add flour and cook, stirring constantly until golden brown, about 3 minutes. While whisking constantly, pour the strained broth back in at a thin, steady stream until incorporated.  Simmer the gravy until somewhat reduced, about 20 minutes longer. Season with salt and pepper (be careful about over-salting, it will get quite salty from turkey juices), and reduce heat to just barely keep warm. .
 
 Once the turkey is cooked, remove from oven and transfer the rack with the turkey to a new baking sheet; rest at room temperature for 20 min before carving. Collect the juices from the bottom of the roasting pan, and pass through a fine strainer into a cup or bowl. Skim off excess fat and discard. Whisk juices into gravy.
 

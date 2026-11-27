@@ -14,7 +14,7 @@ added_by = "Nick Sharp"
 - 1/4 cup cold butter cut into 1 Tbsp chunks 
 - 1/2 cup white wine (pinot)
 - 2 Tbsp garlic
-- 2 tsp red pepper flakes
+- 1/2 tsp red pepper flakes
 - 1/2 tsp baking soda
 - 2 Tbsp lemon juice 
 - 1/2 cup chopped fresh parsley
